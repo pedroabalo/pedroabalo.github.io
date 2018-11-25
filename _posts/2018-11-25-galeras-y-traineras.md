@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Galeras y traineras"
 categories: 
     - Agile

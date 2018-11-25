@@ -1,5 +1,5 @@
 ---
 title: "Sobre mí"
 sitemap: true
-permalink: /about.html
+permalink: /about
 ---
