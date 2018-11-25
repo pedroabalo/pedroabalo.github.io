@@ -1,5 +1,5 @@
 ---
 title: "Agile"
 sitemap: true
-permalink: /agile
+permalink: /agile/
 ---
