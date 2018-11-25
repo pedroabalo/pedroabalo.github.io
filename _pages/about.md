@@ -4,7 +4,7 @@ sitemap: true
 permalink: /about/
 ---
 
-![image-right](/assets/images/pedro.png){: .align-right}
+![image-right](/assets/images/pedro300x325.png){: .align-right}
 
 Interesado en el desarrollo de software y el mundo Agile a partes iguales, disfruto aprendiendo sobre nuevos frameworks de desarrollo, tecnologías, metodologías y en general, sobre cualquier tema relacionado con mi entorno profesional. Además, me apasiona la (buena) música y sobre todo viajar. Ah, y últimamente me ha dado por hacer deporte.
 
