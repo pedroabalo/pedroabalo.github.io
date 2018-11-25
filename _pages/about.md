@@ -13,11 +13,11 @@ Actualmente trabajo en una empresa del grupo BBVA (BBVA Next Technologies) y des
 Estos últimos años he estado estudiando y aprendiendo todo lo posible sobre Agile y de esta forma he podido obtener algunas de mis certificaciones:
 
 <ul>
-    <li>Certified Scrum Master (Fácil)</li>
-    <li>Professional Scrum Master I</li>
-    <li>Professional Scrum Product Owner I</li>
-    <li>Scaled Professional Scrum</li>
-    <li>Team Kanban Practitioner</li>
-    <li>Management 3.0</li>
+    <li>[Certified Scrum Master](/assets/docs/csm.pdf)</li>
+    <li>[Professional Scrum Master I](/assets/docs/psmi.pdf)</li>
+    <li>[Professional Scrum Product Owner I](/assets/docs/pspoi.pdf)</li>
+    <li>[Scaled Professional Scrum](/assets/docs/sps.pdf)</li>
+    <li>[Team Kanban Practitioner](/assets/docs/kanban-tkp.pdf)</li>
+    <li>[Management 3.0](/assets/docs/management30.pdf)</li>
 </ul>
 
