@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Pedro Abalo"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : /assets/images/pedro.png"
   bio              : "Apasionado de la Tecnología y del mundo Agile a partes iguales."
   location         : "Somewhere"
   email            :
