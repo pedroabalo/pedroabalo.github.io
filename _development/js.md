@@ -3,7 +3,7 @@ title: "JS"
 excerpt: "React, Angular, Ember, ES6"
 header:
   image: /assets/images/programming.jpg
-  teaser: /assets/images/table.jpg
+  teaser: /assets/images/programming.jpg
 sidebar:
   - title: "JS"
     image: http://placehold.it/350x250

@@ -2,8 +2,8 @@
 title: "Java"
 excerpt: "Spring, Thymeleaf, Node4j, JEE, Springboot, Hibernate"
 header:
-  image: /assets/images/table.jpg
-  teaser: /assets/images/table.jpg
+  image: /assets/images/programming.jpg
+  teaser: /assets/images/programming.jpg
 sidebar:
   - title: "Java"
     image: http://placehold.it/350x250
