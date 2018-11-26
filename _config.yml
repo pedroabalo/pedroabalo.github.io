@@ -268,16 +268,6 @@ compress_html:
   ignore:
     envs: development
 
-
-# Collections
-collections:
-  agile:
-    output: true
-    permalink: /.collection/:path/
-  development:
-    output: true
-    permalink: /.collection/:path/
-
 # Defaults
 defaults:
   # _posts
@@ -298,20 +288,5 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _agile
-  - scope:
-      path: ""
-      type: agile
-    values:
-      layout: single
-      author_profile: false
-      share: true
-  # _development
-  - scope:
-      path: ""
-      type: development
-    values:
-      layout: single
-      author_profile: false
-      share: true
+
 
