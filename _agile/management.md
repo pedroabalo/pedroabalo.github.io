@@ -2,8 +2,8 @@
 title: "Management"
 excerpt: "Management"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/desk.jpg
+  teaser: /assets/images/desk.jpg
 sidebar:
   - title: "Management"
     image: http://placehold.it/350x250

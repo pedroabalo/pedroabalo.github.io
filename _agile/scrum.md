@@ -2,8 +2,8 @@
 title: "Scrum"
 excerpt: "Scrum"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/book.jpg
+  teaser: /assets/images/book.jpg
 sidebar:
   - title: "Scrum"
     image: http://placehold.it/350x250

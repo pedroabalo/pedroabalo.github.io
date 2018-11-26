@@ -2,8 +2,8 @@
 title: "Kanban"
 excerpt: "Kanban"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/table.jpg
+  teaser: /assets/images/table.jpg
 sidebar:
   - title: "Kanban"
     image: http://placehold.it/350x250
