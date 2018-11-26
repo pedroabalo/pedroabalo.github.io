@@ -22,7 +22,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Managementeando 3.0
+Management 3.0 es una forma de pensar combinada con una colección de juegos, herramientas y prácticas en constante cambio, cuyo objetivo es ayudar a cualquier trabajador a gestionar la organización.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
