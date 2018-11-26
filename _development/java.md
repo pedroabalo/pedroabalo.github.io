@@ -3,7 +3,6 @@ title: "Java"
 excerpt: "Spring, Thymeleaf, Node4j, JEE, Springboot, Hibernate"
 header:
   image: /assets/images/binarycode.jpg
-  teaser: /assets/images/binarycode.jpg
 sidebar:
   - title: "Java"
     image: http://placehold.it/350x250
@@ -23,7 +22,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Kanbaneando
+Java
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
