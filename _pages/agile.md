@@ -8,4 +8,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Esta sección está dedicada al mundo Agile.  `_agile`.
+Esta sección está dedicada al mundo Agile.
