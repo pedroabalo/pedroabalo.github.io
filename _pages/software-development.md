@@ -9,11 +9,3 @@ classes: wide
 ---
 
 Esta sección está dedicada al Desarrollo de Software. 
-
-<ul>
-  {% for post in site.categories.development %}
-    {% if post.url %}
-        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endif %}
-  {% endfor %}
-</ul>

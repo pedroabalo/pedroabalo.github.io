@@ -24,7 +24,9 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Scrumeando
+Es un marco de trabajo a través del cual las personas pueden abordar problemas
+complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el
+máximo valor.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 

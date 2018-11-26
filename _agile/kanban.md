@@ -22,7 +22,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Kanbaneando
+El Método Kanban es un conjunto de principios y prácticas exitosas en iniciativas Kanban alrededor de todo el mundo.
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
