@@ -5,7 +5,7 @@ header:
   image: /assets/images/desk.jpg
   teaser: /assets/images/desk.jpg
 sidebar:
-  - title: "Management"
+  - title: "Management 3.0 es una forma de pensar combinada con una colección de juegos, herramientas y prácticas en constante cambio, cuyo objetivo es ayudar a cualquier trabajador a gestionar la organización."
     image: http://placehold.it/350x250
     image_alt: "logo"
     text: "Designer, Front-End Developer"
