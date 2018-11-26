@@ -1,5 +1,5 @@
 ---
-title:  "Galeras y traineras"
+title:  "Traineras y galeras"
 categories: 
     - Agile
 tags:
