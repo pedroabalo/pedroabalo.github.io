@@ -4,7 +4,6 @@ excerpt: "Es un marco de trabajo a través del cual las personas pueden abordar 
 complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el
 máximo valor."
 header:
-  image: /assets/images/book.jpg
   teaser: /assets/images/book.jpg
 sidebar:
   - title: "Scrum"

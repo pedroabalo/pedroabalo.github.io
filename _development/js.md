@@ -2,7 +2,6 @@
 title: "JS"
 excerpt: "React, Angular, Ember, ES6"
 header:
-  image: /assets/images/programming.jpg
   teaser: /assets/images/programming.jpg
 sidebar:
   - title: "JS"
