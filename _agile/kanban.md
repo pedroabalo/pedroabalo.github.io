@@ -2,7 +2,7 @@
 title: "Kanban"
 excerpt: "El Método Kanban es un conjunto de principios y prácticas exitosas en iniciativas Kanban alrededor de todo el mundo."
 header:
-  teaser: /assets/images/table.jpg
+  teaser: /assets/images/will-h-mcmahan-720253-unsplash.jpg
 sidebar:
   - title: "Kanban"
     image: http://placehold.it/350x250
