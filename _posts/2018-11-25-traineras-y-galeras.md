@@ -10,7 +10,8 @@ tags:
 
 ## Remando hacia el futuro 
 
-| ![Photo by Matteo Vistocco on Unsplash](/assets/images/matteo-vistocco-240766-unsplash_small.jpg){: .align-right} | 
+| ![Photo by Matteo Vistocco on Unsplash](/assets/images/matteo-vistocco-240766-unsplash_small.jpg){: .align-right; height: 250;
+    width: 414;} | 
 |:--:| 
 | *Photo by Matteo Vistocco on Unsplash* |
 
