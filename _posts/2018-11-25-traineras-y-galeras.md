@@ -1,5 +1,6 @@
 ---
 title:  "Traineras y galeras"
+layout: post
 categories: 
     - Agile
 tags:
