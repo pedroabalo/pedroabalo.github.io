@@ -5,7 +5,8 @@ header:
   teaser: /assets/images/will-h-mcmahan-720253-unsplash.jpg
 sidebar:
   - title: "Kanban"
-    image: http://placehold.it/350x250
+    image: /assets/images/will-h-mcmahan-720253-unsplash.jpg
+    caption: "Photo by Will H McMahan on Unsplash"
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
