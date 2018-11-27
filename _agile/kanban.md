@@ -6,11 +6,10 @@ header:
 sidebar:
   - title: "Kanban"
     image: /assets/images/will-h-mcmahan-720253-unsplash.jpg
-    caption: "Photo by Will H McMahan on Unsplash"
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Kanban method"
+  - title: "Agradecimientos"
+    text: "Photo by Will H McMahan on Unsplash"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg

@@ -2,14 +2,14 @@
 title: "Management 3.0"
 excerpt: "Management 3.0 es una forma de pensar combinada con una colección de juegos, herramientas y prácticas en constante cambio, cuyo objetivo es ayudar a cualquier trabajador a gestionar la organización."
 header:
-  teaser: /assets/images/desk.jpg
+  teaser: /assets/images/rawpixel-797113-unsplash.jpg
 sidebar:
   - title: "Management 3.0"
-    image: http://placehold.it/350x250
+    image: /assets/images/rawpixel-797113-unsplash.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Management 3.0"
+  - title: "Agradecimientos"
+    text: "Photo by rawpixel on Unsplash"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
