@@ -11,8 +11,8 @@ classes: wide
 Esta sección está dedicada al mundo Agile.
 
 <ul>
+<p>Post más recientes</p>
   {% for post in site.posts %}
-  <p>Post más recientes</p>
     {% if post.categories contains 'Agile' %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
