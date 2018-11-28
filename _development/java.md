@@ -5,11 +5,11 @@ header:
   teaser: /assets/images/binarycode.jpg
 sidebar:
   - title: "Java"
-    image: http://placehold.it/350x250
+    image: /assets/images/binarycode.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Java language"
+  - title: "Agradecimientos"
+    text: "Photo cortesy"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -22,7 +22,4 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Java
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
+Spring Framework, Thymeleaf, Neo4j
