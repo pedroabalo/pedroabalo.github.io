@@ -7,12 +7,18 @@ layout: archive
 <div class="entries-{{ page.entries_layout }}">
   {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
 </div>
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
-  
-{% for post in site.posts %}
-  {% if post.categories contains page.collection %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endif %}
-{% endfor %}
+<div class="feature__wrapper">
+    <div class="feature__item--center">
+        <div class="archive__item">
+            <div class="archive__item-body">
+              <h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+              {% for post in site.posts %}
+                {% if post.categories contains page.collection %}
+                <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+                {% endif %}
+              {% endfor %}
+            </div>
+        </div>
+      </div>
+</div>
 
