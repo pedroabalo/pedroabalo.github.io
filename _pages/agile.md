@@ -10,18 +10,10 @@ classes: wide
 
 Esta sección está dedicada al mundo Agile.
 
-<div class="blog-index">  
-    <ul>
-    {% for category in site.categories %}
-        {% if category contains 'agile' %}
-        <li><a name="{{ category | first }}">{{ category | first }}</a>
-            <ul>
-            {% for post in category.last %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-            {% endfor %}
-            </ul>
-        </li>
-        {% endif %}
-    {% endfor %}
-    </ul>
-</div>
+<ul>
+  {% for post in site.categories.agile %}
+    {% if post.url %}
+        <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
