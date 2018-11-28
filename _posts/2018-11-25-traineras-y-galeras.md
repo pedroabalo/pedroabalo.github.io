@@ -1,11 +1,11 @@
 ---
 title:  "Traineras y galeras"
 categories: 
-    - Agile
+    - agile
 tags:
     - Management 3.0
     - PAL
-    - Antifragile
+    - antifragile
 ---
 
 ## Remando hacia el futuro 

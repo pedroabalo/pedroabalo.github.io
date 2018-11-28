@@ -1,11 +1,11 @@
 ---
 title:  "Creando dominios en local"
 categories: 
-    - Development
+    - development
 tags:
     - Tomcat
     - Apache
-    - Hosts
+    - hosts
 ---
 
 ## Objetivo
