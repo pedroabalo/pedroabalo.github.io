@@ -13,7 +13,7 @@ Esta sección está dedicada al mundo Agile.
 <div class="blog-index">  
     <ul>
     {% for category in site.categories %}
-        {% if category.last contains 'agile' %}
+        {% if category contains 'agile' %}
         <li><a name="{{ category | first }}">{{ category | first }}</a>
             <ul>
             {% for post in category.last %}
