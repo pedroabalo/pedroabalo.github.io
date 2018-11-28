@@ -12,6 +12,7 @@ Esta sección está dedicada al mundo Agile.
 
 <ul>
   {% for post in site.posts %}
+  <p>{% post.categories %}</p>
     {% if post.categories contains "agile" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
