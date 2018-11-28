@@ -1,7 +1,7 @@
 ---
 title: "Desarrollo de Software"
 sitemap: true
-layout: collection
+layout: collection-post
 permalink: /software-development/
 collection: development
 entries_layout: grid
