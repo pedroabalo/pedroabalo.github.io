@@ -12,6 +12,7 @@ layout: archive
   <ul>
     <p>Post más recientes</p>
       {% for post in site.posts %}
+      <p>{{page.collection}}</p>
         {% if post.categories contains page.collection %}
             <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}
