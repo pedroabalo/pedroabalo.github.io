@@ -8,7 +8,7 @@ layout: archive
   {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
 </div>
 
-<div class="post">
+<div class="entries-{{ page.entries_layout }}">
   <ul>
     <p>Post más recientes</p>
       {% for post in site.posts %}
