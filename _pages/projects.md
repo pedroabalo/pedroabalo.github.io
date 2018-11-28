@@ -1,7 +1,7 @@
 ---
 title: "Mis proyectos"
 sitemap: true
-layout: home
+layout: new-home
 permalink: /projects/
 author_profile: true
 feature_row:
