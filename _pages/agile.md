@@ -11,8 +11,8 @@ classes: wide
 Esta sección está dedicada al mundo Agile.
 
 <ul>
-  {% for post in site.categories.agile %}
-    {% if post.url %}
+  {% for post in site.posts %}
+    {% if post.categories contains "agile" %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endif %}
   {% endfor %}
