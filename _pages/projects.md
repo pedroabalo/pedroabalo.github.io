@@ -8,7 +8,7 @@ feature_row:
   - image_path: /assets/images/rawpixel-579231-unsplash.jpg
     alt: "Photo by Raw Pixel on Unsplash"
     title: "Mi blog"
-    excerpt: 'Mi Blog personal con **jekyll** y **github pages**'
+    excerpt: 'Mi Blog personal con **jekyll** y **github pages**. Basado en el tema de **minimal mistakes**'
     url: "https://github.com/pedroabalo/pedroabalo.github.io"
     btn_label: "Acceder"
     btn_class: "btn--primary"
