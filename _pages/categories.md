@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: category
 permalink: /categories/
 title: Categories
 ---
