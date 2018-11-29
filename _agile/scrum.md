@@ -28,4 +28,8 @@ Es un marco de trabajo a través del cual las personas pueden abordar problemas
 complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el
 máximo valor.
 
+<h2>
+¿Por dónde empezar?
+</h2>
+Leyendo la [guía](https://www.scrumguides.org/scrum-guide.html) de Scrum
 
