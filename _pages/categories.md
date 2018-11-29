@@ -1,7 +1,7 @@
 ---
-layout: category
+layout: archive
 permalink: /categories/
-title: Categories
+title: Post por categoria
 ---
 <div id="archives">
 {% for category in site.categories %}
