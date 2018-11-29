@@ -249,15 +249,15 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
+jekyll-archives:
+   enabled:
+     - categories
 #     - tags
-#   layouts:
-#     category: archive-taxonomy
+   layouts:
+     category: archive-taxonomy
 #     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
+   permalinks:
+     category: /categories/:name/
 #     tag: /tags/:name/
 
 
@@ -277,8 +277,6 @@ collections:
   development:
     output: true
     permalink: /:collection/:path/
-  categories:
-    output: true
 
 # Defaults
 defaults:
@@ -300,17 +298,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _categories
-  - scope:
-      path: ""
-      type: categories
-    values:
-      layout: single
-      author_profile: true
-      read_time: false
-      comments: false # true
-      share: false
-      related: false
   # _agile
   - scope:
       path: ""
