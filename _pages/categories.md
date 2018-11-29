@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /categories/
 title: Post por categoria
 ---
