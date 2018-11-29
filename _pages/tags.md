@@ -4,7 +4,7 @@ permalink: /tags/
 title: Post por etiqueta
 ---
 <div id="archives">
-{% for tags in site.tags %}
+{% for tag in site.tags %}
   <div class="archive-group">
     {% capture tag_name %}{{ tag | first }}{% endcapture %}
     <div id="#{{ tag_name | slugize }}"></div>
