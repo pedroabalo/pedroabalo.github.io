@@ -38,3 +38,7 @@ Me he leído la guía de Scrum, ¿y ahora que?
 </h3>
 ¿Quieres aplicar Scrum? ¿Estás preparado? Para empezar, es recomendable que tu organización apoye la utilización de este framework y que cuentes con los elementos necesarios para su implantación, esto es, un equipo de desarrollo de entre 3 y 9 personas, un Scrum Master y un Product Owner. Menos devs no son suficientes para generar valor y más devs está demostrado que genera demasiada complejidad. El Scrum Master y el Product owner deben ser personas distintas y no están incluídos en este número excepto si también ejecutan trabajo en el Sprint Backlog.
 
+<h3>
+Hemos formado un equipo Scrum, tenemos Product Owner y soy el Scrum Master
+</h3>
+Muy bien! ahora que habéis formado el equipo, deberás ayudar al Product Owner a que se responsabilice del Backlog y su priorización. El Backlog no es más que un conjunto de PBIs (Product Backlog Items) que son los requisitos necesarios para nuestro producto. 
