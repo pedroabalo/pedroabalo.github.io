@@ -41,4 +41,21 @@ Me he leído la guía de Scrum, ¿y ahora que?
 <h3>
 Hemos formado un equipo Scrum, tenemos Product Owner y soy el Scrum Master
 </h3>
-Muy bien! ahora que habéis formado el equipo, deberás ayudar al Product Owner a que se responsabilice del Backlog y su priorización. El Backlog no es más que un conjunto de PBIs (Product Backlog Items) que son los requisitos necesarios para nuestro producto. 
+Muy bien! ahora que habéis formado el equipo, deberás hacer unas primeras tareas básicas que vendrán muy bien de cara a la organización:
+
+* Hazte con un tablero físico
+* Ayuda al Product Owner a que se responsabilice del Backlog y su priorización
+* Establecer como equipo el calendario y horario de las ceremonias 
+  * Sprint (duración y cuando empieza) 
+  * Daily Scrum (no más de 15 minutos)
+  * Sprint planning (4 horas para sprint de 2 semanas)
+  * Refinamiento (menos del 10% capacidad del equipo - este decide cuando y como)
+  * Sprint review (2 horas para sprint de 2 semanas)
+  * Retrospective (menos de 3 horas para sprint de 2 semanas) 
+* Establecer el Definition of Done, qué es lo mínimo necesario para que el PBI sea aceptado
+
+<h3>
+Tenemos Product Backlog, pero los PBIs no son los suficientemente pequeños
+</h3>
+
+
