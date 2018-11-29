@@ -39,6 +39,7 @@ Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.sc
 * Incremento
 * Definition of Done (de transparencia)
 
+![Framework_Scrum](/assets/images/frameworkScrum.png)
 
 ## Me he leído la guía de Scrum, ¿y ahora qué?
 
@@ -63,7 +64,6 @@ Muy bien! ahora que habéis formado el equipo, deberás hacer unas primeras tare
   * Retrospective (menos de 3 horas para sprint de 2 semanas) 
 * Establecer el Definition of Done, qué es lo mínimo necesario para que el PBI sea aceptado
 
-![Framework_Scrum](/assets/images/frameworkScrum.png)
 
 ## Mi primer sprint
 
