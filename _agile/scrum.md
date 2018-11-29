@@ -31,7 +31,7 @@ máximo valor.
 <h3>
 ¿Por dónde empezar?
 </h3>
-Para empezar te recomiendo leerte la [guía](https://www.scrumguides.org/scrum-guide.html) de Scrum. Comentar que la guía está condensada, de tal forma que no existe ninguna frase dentro de ella que esté de más. Todo concepto, término o descripción es importante.
+Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.scrumguides.org/scrum-guide.html) de Scrum. Comentar que la guía está condensada, de tal forma que no existe ninguna frase dentro de ella que esté de más. Todo concepto, término o descripción es importante.
 
 <h3>
 Me he leído la guía de Scrum, ¿y ahora que?
