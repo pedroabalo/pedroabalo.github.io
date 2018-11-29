@@ -266,7 +266,7 @@ tag_archive:
 compress_html:
   clippings: all
   ignore:
-    envs: development
+    envs: production
 
 
 # Collections
@@ -277,6 +277,8 @@ collections:
   development:
     output: true
     permalink: /:collection/:path/
+  categories:
+    output: true
 
 # Defaults
 defaults:
@@ -298,7 +300,12 @@ defaults:
     values:
       layout: single
       author_profile: true
-  #_agile
+  # _categories
+  - scope:
+      path: ""
+    values:
+      layout: "category" 
+  # _agile
   - scope:
       path: ""
       type: agile
@@ -306,7 +313,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  #_development
+  # _development
   - scope:
       path: ""
       type: development
