@@ -304,7 +304,12 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: "category" 
+      layout: single
+      author_profile: true
+      read_time: false
+      comments: false # true
+      share: false
+      related: false
   # _agile
   - scope:
       path: ""
