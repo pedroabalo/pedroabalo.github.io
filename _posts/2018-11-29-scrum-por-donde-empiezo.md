@@ -76,8 +76,9 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
 
 ## Sprint Planning
 
-
 *Working in progress*
+
+Intentar no llegar a este evento sin haber trabajado previamente como equipo cada uno de los PBIs que el Product Owner presentará.
 
 Como recomendación, prestar atención a la definición como equipo del **Objetivo del Sprint** en cada planificación; lo considero de una importancia enorme, sobre todo en equipos que están empezando con Scrum, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
 
@@ -102,3 +103,6 @@ La generación de acciones para el siguiente sprint como PBI
 ¿Qué es y qué no es?
 
 *Working in progress*
+
+
+## Más Tips
