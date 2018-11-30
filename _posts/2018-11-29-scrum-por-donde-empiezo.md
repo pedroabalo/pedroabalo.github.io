@@ -5,6 +5,7 @@ categories:
 tags:
     - Scrum
 toc: true
+toc_label: "Scrum ¿Por dónde empiezo?"
 ---
 
 **Scrum** es un marco de trabajo a través del cual las personas pueden abordar problemas
