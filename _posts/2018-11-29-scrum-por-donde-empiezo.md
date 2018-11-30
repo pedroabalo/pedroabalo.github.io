@@ -53,26 +53,35 @@ También considero fundamental que todas las personas del equipo lean la guía d
 
 ## Hemos formado un equipo Scrum, tenemos Product Owner y soy el Scrum Master
 
-Muy bien! ahora que habéis formado el equipo, deberás hacer unas primeras tareas básicas que vendrán muy bien de cara nuestra organización.
+Muy bien! ahora que habéis formado el equipo, deberás hacer unas primeras tareas básicas que vendrán muy bien de cara a nuestra organización. Recuerda que premia la autoorganización, por tanto, no intentes imponer un modelo sobre otro y deja que sea el conjunto del equipo el que decida la mejor forma de trabajar para la entrega de valor, que al fin y al cabo es nuestro objetivo.
 
-* Hazte con un tablero físico
-* Ayuda al Product Owner a que se responsabilice del Backlog y su priorización
-* Establecer como equipo el calendario y horario de los eventos 
-  * Sprint (deicidir la longitud del sprint: 2, 3 o 4 semanas) 
-  * Daily Scrum (no más de 15 minutos)
-  * Sprint planning (4 horas para sprint de 2 semanas)
-  * Refinamiento (menos del 10% capacidad del equipo - este decide cuando y como)
-  * Sprint review (2 horas para sprint de 2 semanas)
-  * Retrospective (menos de 3 horas para sprint de 2 semanas) 
-* Establecer el Definition of Done, qué es lo mínimo necesario para que el PBI sea aceptado
+Vuelve a revisar los eventos y los artefactos de Scrum!
+
+* Hazte con un tablero físico (ayuda mucho, en serio)
+* Ayuda al Product Owner a que entienda la *accountabilidad* del Backlog y su priorización
+* Ayuda al equipo para mantener la premisa fundamental de entrega de valor como objetivo.
+* Establecer como equipo el calendario y horario de los eventos
+ * Sprint (decidir la longitud del sprint)
+ * Daily Scrum (no más de 15 minutos)
+ * Sprint planning (4 horas para sprint de 2 semanas)
+ * Refinamiento (menos del 10% capacidad del equipo - este decide cuándo y cómo)
+ * Sprint review (2 horas para sprint de 2 semanas)
+ * Retrospectiva (menos de 3 horas para sprint de 2 semanas)
+* Establecer el Definition of Done, es decir, lo mínimo necesario para que un PBI del backlog sea aceptado una vez trabajado por el equipo y pase a formar parte del incremento
 
 ## Mi primer sprint
+
 
 *Working in progress*
 
 ## Sprint Planning
 
+
 *Working in progress*
+
+Como recomendación, prestar atención a la definición como equipo del **Objetivo del Sprint** en cada planificación; lo considero de una importancia enorme, sobre todo en equipos que están empezando con Scrum y que nos sirva de guía a través de todo el Sprint.
+
+El Goal del sprint nos ayuda con el **foco** de una forma increíble.
 
 ## Daily Scrum
 
