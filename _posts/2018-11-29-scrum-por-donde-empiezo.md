@@ -66,22 +66,30 @@ Muy bien! ahora que habéis formado el equipo, deberás hacer unas primeras tare
 
 ## Mi primer sprint
 
+*Working in progress*
 
 ## Sprint Planning
 
+*Working in progress*
 
 ## Daily Scrum
 
 Qué es y qué no es?
 
+*Working in progress*
+
 ## Retrospectiva
 
 La generación de acciones para el siguiente sprint como PBI
 
+*Working in progress*
+
 ## Refinamiento
 
-
+*Working in progress*
 
 ## Sprint Review
 
 ¿Qué es y qué no es?
+
+*Working in progress*
