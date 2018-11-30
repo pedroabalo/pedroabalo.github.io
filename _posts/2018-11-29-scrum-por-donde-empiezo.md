@@ -4,6 +4,7 @@ categories:
     - agile
 tags:
     - Scrum
+toc: true
 ---
 
 **Scrum** es un marco de trabajo a través del cual las personas pueden abordar problemas
