@@ -79,9 +79,7 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
 
 *Working in progress*
 
-Como recomendación, prestar atención a la definición como equipo del **Objetivo del Sprint** en cada planificación; lo considero de una importancia enorme, sobre todo en equipos que están empezando con Scrum y que nos sirva de guía a través de todo el Sprint.
-
-El Goal del sprint nos ayuda con el **foco** de una forma increíble.
+Como recomendación, prestar atención a la definición como equipo del **Objetivo del Sprint** en cada planificación; lo considero de una importancia enorme, sobre todo en equipos que están empezando con Scrum, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
 
 ## Daily Scrum
 
