@@ -17,7 +17,7 @@ máximo valor.
 
 Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.scrumguides.org/scrum-guide.html) de Scrum. Comentar que la guía está condensada de tal forma, que no existe ninguna frase dentro de ella que esté de más. Todo concepto, término o descripción es importante y tiene un propósito. Además, deberás conocer los pilares, los valores, los roles, los eventos y los artefactos que existen.
 
-**Pilares**
+**Pilares del empiricismo**
 * Transparencia
 * Inspección
 * Adaptación
@@ -35,6 +35,8 @@ Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.sc
 * Equipo de desarrollo
 * Product Owner
 * Scrum Master
+
+**Importante**: Hay que diferenciar cuándo se habla de Scrum Team y cuándo se habla de Dev Team, ya que las responsabilidades pueden afectar al rol de equipo de desarrollo o a todos los roles.
 
 **Eventos**
 * Sprint
@@ -71,16 +73,20 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
 * Establecer como equipo el calendario y horario de los eventos
  * Sprint (decidir la longitud del sprint)
  * Daily Scrum (no más de 15 minutos)
- * Sprint planning (4 horas para sprint de 2 semanas)
+ * Sprint planning (4 horas máximo para sprint de 2 semanas)
  * Refinamiento (menos del 10% capacidad del equipo - este decide cuándo y cómo)
- * Sprint review (2 horas para sprint de 2 semanas)
+ * Sprint review (2 horas máximo para sprint de 2 semanas)
  * Retrospectiva (menos de 3 horas para sprint de 2 semanas)
-* Establecer el Definition of Done, es decir, lo mínimo necesario para que un PBI del backlog sea aceptado una vez trabajado por el equipo y pase a formar parte del incremento
+* Establecer el Definition of Done, es decir, lo mínimo necesario para que un PBI (Product Backlog Item) del backlog esté terminado y pase a formar parte del incremento
 
 ## Mi primer sprint
 
-
 *Working in progress*
+
+Estamos a lunes y el miércoles empieza el Sprint 1! De cara a este primer sprint, trabajar con el Product Owner en generar un Product Backlog (aunque sea mínimo) y con todo el equipo scrum en refinar los PBIs más prioritarios de cara al Sprint Planning. Unos PBIs poco definidos o complejos implican demasiada conversación en el evento de planificación que producirá complicaciones de time-box.
+
+Queremos unos PBIs lo más [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) posibles.
+
 
 ## Sprint Planning
 
@@ -88,7 +94,7 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
 
 Intentar no llegar a este evento sin haber trabajado previamente como equipo cada uno de los PBIs que el Product Owner presentará.
 
-Como recomendación, prestar atención a la definición como equipo del **Objetivo del Sprint** en cada planificación; lo considero de una importancia enorme, sobre todo en equipos que están empezando con Scrum, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
+Como recomendación, prestar atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; lo considero de una importancia enorme, sobre todo en equipos que están empezando con Scrum, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
 
 ## Daily Scrum
 
