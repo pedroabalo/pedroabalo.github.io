@@ -12,7 +12,7 @@ máximo valor.
 
 ## Mis primeros pasos
 
-Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.scrumguides.org/scrum-guide.html) de Scrum. Comentar que la guía está condensada de tal forma, que no existe ninguna frase dentro de ella que esté de más. Todo concepto, término o descripción es importante y tiene un propósito. Además, deberás conocer los valores, los roles que existen, los eventos y los artefactos.
+Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.scrumguides.org/scrum-guide.html) de Scrum. Comentar que la guía está condensada de tal forma, que no existe ninguna frase dentro de ella que esté de más. Todo concepto, término o descripción es importante y tiene un propósito. Además, deberás conocer los valores, los roles, los eventos y los artefactos que existen.
 
 **Valores de Scrum**
 * Compromiso
@@ -20,6 +20,8 @@ Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.sc
 * Foco
 * Franqueza
 * Respeto
+
+![Scrum-Values](/assets/images/scrum-values.jpg)
 
 **Roles que forman el Scrum Team**
 * Equipo de desarrollo
@@ -43,7 +45,7 @@ Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.sc
 
 ## Me he leído la guía de Scrum, ¿y ahora qué?
 
-¿Quieres aplicar Scrum? ¿Estás preparado? Para empezar, es recomendable que tu organización apoye la utilización de este framework y que cuentes con los elementos necesarios para su implantación, esto es, un equipo de desarrollo de entre 3 y 9 personas, un Scrum Master y un Product Owner. Menos devs no son suficientes para generar valor y más devs está demostrado que genera demasiada complejidad. El Scrum Master y el Product owner deben ser personas distintas y no están incluídos en este número excepto si también ejecutan trabajo en el Sprint Backlog.
+¿Quieres aplicar Scrum? ¿Estás preparado? Para empezar, es recomendable que tu organización apoye la utilización de este framework y que cuentes con los elementos necesarios para su implantación, esto es, un equipo de desarrollo de entre 3 y 9 personas, un Scrum Master y un Product Owner. Menos devs no son suficientes para generar valor y más devs está demostrado que genera demasiada complejidad. El Scrum Master y el Product Owner deben ser personas distintas y no están incluídos en este número excepto si también ejecutan trabajo del Sprint Backlog.
 
 Con respecto a los medios materiales, considero que son importantes los espacios de modo que te permitan celebrar los eventos de una forma cómoda, así como elementos accesorios como tableros, post-it, rotuladores, etc.
 
@@ -51,7 +53,7 @@ También considero fundamental que todas las personas del equipo lean la guía d
 
 ## Hemos formado un equipo Scrum, tenemos Product Owner y soy el Scrum Master
 
-Muy bien! ahora que habéis formado el equipo, deberás hacer unas primeras tareas básicas que vendrán muy bien de cara a la organización:
+Muy bien! ahora que habéis formado el equipo, deberás hacer unas primeras tareas básicas que vendrán muy bien de cara nuestra organización.
 
 * Hazte con un tablero físico
 * Ayuda al Product Owner a que se responsabilice del Backlog y su priorización
