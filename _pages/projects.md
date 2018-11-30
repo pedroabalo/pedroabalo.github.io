@@ -33,5 +33,3 @@ gallery:
 
 
 {% include feature_row id="feature_row" type="left" %}
-
-{% include gallery caption="Tecnologías utilizadas" %}
