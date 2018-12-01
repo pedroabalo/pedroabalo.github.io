@@ -142,4 +142,4 @@ User story mapping
 
 Kano
 
-[**Método MoSCoW**](https://en.wikipedia.org/wiki/MoSCoW_method) es una técnica de priorización que permite clasificar los requerimientos en categorías de importancia en la entrega de producto (**Must have**, **Should have**, **Could have**, **Won't have** (*this time*)) y en la que el Equipo de Desarrollo se centra en los M y S.  
+[**Método MoSCoW**](https://en.wikipedia.org/wiki/MoSCoW_method) es una técnica de priorización que permite clasificar los requerimientos en categorías de importancia en la entrega de producto (**Must have**, **Should have**, **Could have**, **Won't have** (*this time*)).  
