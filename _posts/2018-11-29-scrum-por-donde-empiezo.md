@@ -83,11 +83,11 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
 
 *Working in progress*
 
-Estamos a lunes y el miércoles empieza el Sprint 1! 
+Estamos a lunes y el miércoles empieza el Sprint 1!
 
-De cara a este primer sprint, trabajar con el Product Owner en generar un Product Backlog (aunque sea mínimo) y con todo el equipo scrum en refinar los PBIs más prioritarios de cara al Sprint Planning. Unos PBIs poco definidos o complejos implican demasiada conversación en el evento de planificación que producirá complicaciones de time-box.
+De cara a este primer sprint y si el Product Owner también está empezando como el resto del equipo, ayúdalo a generar un Product Backlog (aunque sea mínimo) y a priorizarlo. Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs más prioritarios de cara al Sprint Planning. Unos PBIs poco definidos o complejos implican demasiada conversación en el evento de planificación que producirá complicaciones de time-box.
 
-Queremos unos PBIs lo más [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) posibles.
+> Queremos unos PBIs lo más [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) posibles
 
 
 
