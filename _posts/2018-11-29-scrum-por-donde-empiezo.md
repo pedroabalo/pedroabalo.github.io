@@ -68,7 +68,7 @@ Muy bien! ahora que habéis formado el equipo, deberás hacer unas primeras tare
 Vuelve a revisar los eventos y los artefactos de Scrum!
 
 * Hazte con un tablero físico (ayuda mucho, en serio)
-* Ayuda al Product Owner a que entienda la *accountabilidad* del Backlog y su priorización
+* Ayuda al Product Owner a que entienda la *accountabilidad* del Backlog y a ordenarlo.
 * Ayuda al equipo para mantener la premisa fundamental de entrega de valor como objetivo.
 * Establecer como equipo el calendario y horario de los eventos
  * Sprint (decidir la longitud del sprint)
@@ -85,9 +85,10 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
 
 Estamos a lunes y el miércoles empieza el Sprint 1!
 
-De cara a este primer sprint y si el Product Owner también está empezando como el resto del equipo, ayúdalo a generar un Product Backlog (aunque sea mínimo) y a priorizarlo. Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs más prioritarios de cara al Sprint Planning. Unos PBIs poco definidos o complejos implican demasiada conversación en el evento de planificación que producirá complicaciones de time-box.
+De cara a este primer sprint y si el Product Owner también está empezando como el resto del equipo, ayúdalo a generar un Product Backlog (aunque sea mínimo) y a [**ordenarlo**](https://www.scrum.org/resources/ordered-not-prioritized). Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs de cara al Sprint Planning. Unos PBIs poco definidos o complejos implican demasiada conversación en el evento de planificación que producirá complicaciones de time-box.
 
-> Queremos unos PBIs lo más [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) posibles
+
+> Queremos PBIs lo más [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) posible.
 
 
 
@@ -95,7 +96,7 @@ De cara a este primer sprint y si el Product Owner también está empezando como
 
 *Working in progress*
 
-Intentar no llegar a este evento sin haber trabajado previamente como equipo cada uno de los PBIs que el Product Owner presentará.
+Como comentaba en el apartado anterior, procurar no llegar a este evento sin haber trabajado previamente como equipo cada uno de los PBIs que el Product Owner presentará. Para ello utilizar el refinamiento, ya que esto nos ayudará a descomponer los PBIs e intentar que sean lo más INVEST posibles.
 
 Como recomendación, prestar atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; lo considero de una importancia enorme, sobre todo en equipos que están empezando con Scrum, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
 
