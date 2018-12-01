@@ -85,7 +85,7 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
 
 Estamos a lunes y el miércoles empieza el Sprint 1!
 
-De cara a este primer sprint y si el Product Owner también está empezando como el resto del equipo, ayúdalo a generar el Product Backlog (podéis utilizar alguna técnica que os guíe en este primera versión de backlog como  [***User Story Mapping***](http://jmbeas.es/guias/user-story-mapping/)) y a [**ordenarlo**](https://www.scrum.org/resources/ordered-not-prioritized). Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs de cara al Sprint Planning. Unos PBIs poco definidos o complejos implican demasiada conversación en el evento de planificación que producirá complicaciones de time-box.
+De cara a este primer sprint y si el Product Owner también está empezando como el resto del equipo, ayúdalo a generar el Product Backlog (podéis utilizar alguna técnica que os guíe en este primera versión de backlog como la de [***User Story Mapping***](http://jmbeas.es/guias/user-story-mapping/)) y a [**ordenarlo**](https://www.scrum.org/resources/ordered-not-prioritized). Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs de cara al Sprint Planning. Unos PBIs poco definidos o complejos implican demasiada conversación en el evento de planificación que producirá complicaciones de time-box.
 
 De cara a este primer sprint y si el Product Owner también está empezando como el resto del equipo, ayúdalo a generar un Product Backlog (aunque sea mínimo) y a . Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs de cara al Sprint Planning. Unos PBIs poco definidos o complejos implican demasiada conversación en el evento de planificación que producirá complicaciones de time-box.
 
@@ -133,3 +133,13 @@ La generación de acciones para el siguiente sprint como PBI
 ## Más Tips
 
 *Working in progress*
+
+## Herramientas, métodos y técnicas
+
+*Working in progress*
+
+User story mapping
+
+Kano
+
+[**Método MoSCoW**](https://en.wikipedia.org/wiki/MoSCoW_method) es una técnica de priorización que permite clasificar los requerimientos en categorías de importancia en la entrega de producto (**Must have**, **Should have**, **Could have**, **Won't have** (*this time*)) y en la que el Equipo de Desarrollo se centra en los M y S.  
