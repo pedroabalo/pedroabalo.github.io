@@ -85,10 +85,7 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
 
 Estamos a lunes y el miércoles empieza el Sprint 1!
 
-De cara a este primer sprint y si el Product Owner también está empezando como el resto del equipo, ayúdalo a generar el Product Backlog (podéis utilizar alguna técnica que os guíe en este primera versión de backlog como la de [***User Story Mapping***](http://jmbeas.es/guias/user-story-mapping/)) y a [**ordenarlo**](https://www.scrum.org/resources/ordered-not-prioritized). Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs de cara al Sprint Planning. Unos PBIs poco definidos o complejos implican demasiada conversación en el evento de planificación que producirá complicaciones de time-box.
-
-De cara a este primer sprint y si el Product Owner también está empezando como el resto del equipo, ayúdalo a generar un Product Backlog (aunque sea mínimo) y a . Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs de cara al Sprint Planning. Unos PBIs poco definidos o complejos implican demasiada conversación en el evento de planificación que producirá complicaciones de time-box.
-
+De cara a este primer sprint, ayuda al Product Owner a generar una primera versión del Product Backlog (podéis apoyaros con alguna técnica como la de  [***User Story Mapping***](http://jmbeas.es/guias/user-story-mapping/)) y a [**ordenarlo**](https://www.scrum.org/resources/ordered-not-prioritized). Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs de cara al Sprint Planning. Desde mi punto de vista, también es sería una buena práctica llegar al Sprint Planning con los PBIs estimados. Unos PBIs poco definidos, complejos o sin una pre-estimación,  generarán muchísima conversación en el evento de planificación que producirá complicaciones de time-box.
 
 > Queremos PBIs lo más [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) posible.
 
