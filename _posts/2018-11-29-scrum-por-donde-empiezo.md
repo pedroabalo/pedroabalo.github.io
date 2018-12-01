@@ -102,15 +102,19 @@ Como recomendación, prestar atención a la definición como equipo del [**Objet
 
 ## Daily Scrum
 
+*Working in progress*
+
 Qué es y qué no es?
 
-*Working in progress*
+
 
 ## Retrospectiva
 
+*Working in progress*
+
 La generación de acciones para el siguiente sprint como PBI
 
-*Working in progress*
+
 
 ## Refinamiento
 
@@ -118,9 +122,12 @@ La generación de acciones para el siguiente sprint como PBI
 
 ## Sprint Review
 
+*Working in progress*
+
 ¿Qué es y qué no es?
 
-*Working in progress*
 
 
 ## Más Tips
+
+*Working in progress*
