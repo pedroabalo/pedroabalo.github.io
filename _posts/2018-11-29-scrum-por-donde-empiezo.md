@@ -79,13 +79,18 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
  * Retrospectiva (menos de 3 horas para sprint de 2 semanas)
 * Establecer el Definition of Done, es decir, lo mínimo necesario para que un PBI (Product Backlog Item) del backlog esté terminado y pase a formar parte del incremento
 
-## Mi primer sprint
+## Mi primer sprint, ¿cómo lo afronto?
 
 *Working in progress*
 
 Estamos a lunes y el miércoles empieza el Sprint 1!
 
-De cara a este primer sprint, ayuda al Product Owner a generar una primera versión del Product Backlog (podéis apoyaros con alguna técnica como la de  [***User Story Mapping***](http://jmbeas.es/guias/user-story-mapping/)) y a [**ordenarlo**](https://www.scrum.org/resources/ordered-not-prioritized). Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs de cara al Sprint Planning. Desde mi punto de vista, también es sería una buena práctica llegar al Sprint Planning con los PBIs estimados. Unos PBIs poco definidos, complejos o sin una pre-estimación,  generarán muchísima conversación en el evento de planificación que producirá complicaciones de time-box.
+De cara a este primer sprint, ayuda al Product Owner a generar una primera versión del Product Backlog (podéis apoyaros con alguna técnica como la de  [***User Story Mapping***](http://jmbeas.es/guias/user-story-mapping/)) y a [**ordenarlo**](https://www.scrum.org/resources/ordered-not-prioritized). Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs de cara al Sprint Planning. 
+
+> Un PBI es cualquier cosa que sea necesaria para completar el producto, desde casos de uso, historias de usuario, tareas técnicas o requerimientos no funcionales, por lo que procurar no forzar cada item a que sea una historia de usuario.
+
+
+Desde mi punto de vista, también es sería una buena práctica llegar al Sprint Planning con los PBIs estimados. Unos PBIs poco definidos, complejos o sin una pre-estimación,  generarán muchísima conversación en el evento de planificación que producirá complicaciones de time-box.
 
 > Queremos PBIs lo más [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) posible.
 
@@ -98,6 +103,8 @@ De cara a este primer sprint, ayuda al Product Owner a generar una primera versi
 Como comentaba en el apartado anterior, procurar no llegar a este evento sin haber trabajado previamente como equipo cada uno de los PBIs que el Product Owner presentará. Para ello utilizar el refinamiento, ya que esto nos ayudará a descomponer los PBIs e intentar que sean lo más INVEST posibles.
 
 Como recomendación, prestar atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; lo considero de una importancia enorme, sobre todo en equipos que están empezando con Scrum, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
+
+
 
 ## Daily Scrum
 
