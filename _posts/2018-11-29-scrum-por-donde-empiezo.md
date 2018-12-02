@@ -122,6 +122,8 @@ Como recomendación, prestar atención a la definición como equipo del [**Objet
 
 Qué es y qué no es?
 
+*Daily Scrum* es un evento diario de 15 minutos como máximo **para** el **Equipo de Desarrollo**. En ella, se planea el trabajo para las próximas 24 horas y se lleva a cabo cada día en la misma hora y mismo lugar para reducir complejidad.
+
 
 
 ## Retrospectiva
