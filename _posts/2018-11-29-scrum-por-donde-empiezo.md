@@ -160,4 +160,4 @@ Kano
 
 ## Referencias
 
-* [**JMBeas](http://jmbeas.es): [*"User Story Mapping*](http://jmbeas.es/guias/user-story-mapping/)
+* [**JMBeas**](http://jmbeas.es): [*"User Story Mapping*](http://jmbeas.es/guias/user-story-mapping/)
