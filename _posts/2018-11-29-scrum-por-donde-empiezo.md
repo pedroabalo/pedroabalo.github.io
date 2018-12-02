@@ -170,4 +170,6 @@ La generación de acciones para el siguiente sprint como PBI
 
 ## Referencias
 
+*Working in progress*
+
 * [**JMBeas**](http://jmbeas.es): [*"User Story Mapping"*](http://jmbeas.es/guias/user-story-mapping/)
