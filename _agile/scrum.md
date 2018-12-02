@@ -33,4 +33,4 @@ Es un framework que puedes utilizar para gestionar muchas cosas, incluido el des
 Te recomiendo que leas mi siguiente [post](/agile/scrum-por-donde-empiezo/), y recuerda que 
 
 > **Scrum es simple pero no es fácil**
-> Ken Schwaber 
+> (Ken Schwaber) 
