@@ -77,7 +77,7 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
  * Refinamiento (menos del 10% capacidad del equipo - este decide cuándo y cómo)
  * Sprint review (2 horas máximo para sprint de 2 semanas)
  * Retrospectiva (menos de 3 horas para sprint de 2 semanas)
-* Establecer el Definition of Done, es decir, lo mínimo necesario para que un PBI (Product Backlog Item) del backlog esté terminado y pase a formar parte del incremento
+* Establecer el ***Definition of Done***, es decir, lo mínimo necesario para que un PBI (Product Backlog Item) del backlog esté terminado y pase a formar parte del incremento
 
 ![sprint-2-weeks](/assets/images/sprint-2-weeks.png) 
 
@@ -99,7 +99,10 @@ Como parte del proceso de refinamiento, también es una buena práctica **estima
 
 *Working in progress*
  
-Para empezar, aclarar que la estimación de los PBIs forma parte del proceso de refinamiento y el objetivo es generar una conversación. 
+Para empezar, aclarar que la estimación de los PBIs forma parte del proceso de refinamiento (bien en el evento de Refinamiento o en el Sprint Planning) y el objetivo es generar una conversación. Existen algunas técnicas para ayudar a estimar al equipo y quizás la más famosa sea el ***planning poker***, pero existen otras que también nos pueden resultar útiles como ***T-shirt sizing***, ***No estimates*** o ***Affinity Estimation***. Este tipo de técnicas fomentan que se genere una conversación cuando no tenemos unanimidad sobre el nivel de complejidad de un *product backlog item* que estamos estimando.
+
+Existen multitud de sitios donde puedes descargarte unas cartas o mismo estimar con una app en Android o iOS. A mi, personalmente, me gusta mucho tanto la escala como las cartas que han diseñado el equipo de [Redbooth](https://github.com/redbooth/scrum-poker-cards).
+
 
 
 
