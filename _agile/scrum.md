@@ -1,6 +1,6 @@
 ---
 title: "Scrum"
-excerpt: "Es un marco de trabajo a través del cual las personas pueden abordar problemas
+excerpt: "Framework a través del cual las personas pueden abordar problemas
 complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el
 máximo valor."
 header:
@@ -30,7 +30,7 @@ Es un framework que puedes utilizar para gestionar muchas cosas, incluido el des
 ¿Por dónde empiezo?
 </h3>
 
-Te recomiendo que leas mi siguiente [post](/agile/scrum-por-donde-empiezo/), y recurda que 
+Te recomiendo que leas mi siguiente [post](/agile/scrum-por-donde-empiezo/), y recuerda que 
 
-> Scrum es simple pero no es fácil
-> > Ken Schwaber 
+> **Scrum es simple pero no es fácil**
+> Ken Schwaber 

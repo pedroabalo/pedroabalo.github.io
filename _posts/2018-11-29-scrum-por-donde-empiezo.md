@@ -9,7 +9,7 @@ tags:
 # toc_icon: glasses
 ---
 
-**Scrum** es un marco de trabajo a través del cual las personas pueden abordar problemas
+**Scrum** es un framework a través del cual las personas pueden abordar problemas
 complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el
 máximo valor.
 
@@ -89,9 +89,10 @@ De cara a este primer sprint, ayuda al Product Owner a generar una primera versi
 
 Recordar que un PBI es cualquier cosa que sea necesaria para completar el producto, desde casos de uso, historias de usuario, tareas técnicas o requerimientos no funcionales, por lo que debéis intentar no forzar cada item a que sea una historia de usuario.
 
-Como parte del proceso de refinamiento, también es una buena práctica **estimar** los PBIs. Unos PBIs poco definidos, complejos o sin una estimación, en definitiva, sin refinar, generarán muchísima conversación en el evento de planificación que producirá complicaciones de time-box.
+Como parte del proceso de refinamiento, también es una buena práctica **estimar** los PBIs. Unos PBIs poco definidos, complejos y sin estimación, en definitiva sin refinar, generarán muchísima conversación en el evento de planificación que producirá complicaciones de time-box.
 
 > Queremos PBIs lo más [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) posible.
+
 
 
 
