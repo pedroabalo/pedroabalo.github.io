@@ -84,8 +84,6 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
 
 ## Mi primer sprint, ¿cómo lo afronto?
 
-*Working in progress*
-
 Estamos a lunes y el miércoles empieza el Sprint 1!
 
 De cara a este primer sprint, ayuda al Product Owner a generar una primera versión del Product Backlog (podéis apoyaros con alguna técnica como la de  [***User Story Mapping***](http://jmbeas.es/guias/user-story-mapping/)) y a [**ordenarlo**](https://www.scrum.org/resources/ordered-not-prioritized). Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs de cara al Sprint Planning. 
