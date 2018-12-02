@@ -79,7 +79,7 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
  * Retrospectiva (menos de 3 horas para sprint de 2 semanas)
 * Establecer el Definition of Done, es decir, lo mínimo necesario para que un PBI (Product Backlog Item) del backlog esté terminado y pase a formar parte del incremento
 
-![sprint-2-weeks](/assets/images/sprint-2-weeks.png)
+![sprint-2-weeks](/assets/images/sprint-2-weeks.png) 
 
 
 ## Mi primer sprint, ¿cómo lo afronto?
