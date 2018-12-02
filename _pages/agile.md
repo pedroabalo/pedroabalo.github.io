@@ -12,13 +12,10 @@ Esta sección está dedicada al Agile. El objetivo de cualquier organización es
 
 [***Agile Manifesto***](http://agilemanifesto.org/)
 
-> **Individuos e iteraciones** sobre procesos y herramientas
-
-> **Software funcionando** sobre documentación extensiva
-
-> **Colaboración con el cliente** sobre negociación contractual
-
-> **Responder al cambio** sobre seguir un plan
+**Individuos e iteraciones** *sobre procesos y herramientas*
+**Software funcionando** *sobre documentación extensiva*
+**Colaboración con el cliente** *sobre negociación contractual*
+**Responder al cambio** *sobre seguir un plan*
 
 Aunque valoramos los elementos de la derecha, valoramos más los de la izquierda.
 
