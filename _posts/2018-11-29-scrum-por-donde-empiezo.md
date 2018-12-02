@@ -15,7 +15,7 @@ máximo valor.
 
 ## Mis primeros pasos
 
-Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.scrumguides.org/scrum-guide.html) de Scrum. Comentar que la guía está condensada de tal forma, que no existe ninguna frase dentro de ella que esté de más. Todo concepto, término o descripción es importante y tiene un propósito. Además, deberás conocer los pilares, los valores, los roles, los eventos y los artefactos que existen.
+Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.scrumguides.org/scrum-guide.html) de Scrum. Comentar que la guía está condensada de tal forma, que no existe ninguna frase dentro de ella que esté de más. Todo concepto, término o descripción es importante y tiene un propósito. Además, deberás conocer los pilares, los valores, los roles, los eventos y los artefactos que existen.{: .text-justify}
 
 **Pilares del empiricismo**
 * Transparencia
