@@ -23,3 +23,4 @@ Es decir, los procesos, herramientas, documentación, negociación y seguir un p
 
 Además, debemos interiorizar los [**principios**](http://agilemanifesto.org/principles.html) que se rigen en el Manifiesto.
 
+****
