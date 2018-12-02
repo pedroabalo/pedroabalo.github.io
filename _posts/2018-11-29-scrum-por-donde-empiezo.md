@@ -81,6 +81,15 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
 
 ![sprint-2-weeks](/assets/images/sprint-2-weeks.png)
 
+
+## Ahora que hablas de estimar, ¿cómo lo hago?
+
+*Working in progress*
+ 
+Para empezar, aclarar que la estimación de los PBIs forma parte del proceso de refinamiento y el objetivo es generar una conversación.
+
+
+
 ## Mi primer sprint, ¿cómo lo afronto?
 
 *Working in progress*
