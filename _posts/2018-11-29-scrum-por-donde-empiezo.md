@@ -68,7 +68,7 @@ Muy bien! ahora que habéis formado el equipo, deberás hacer unas primeras tare
 Vuelve a revisar los eventos y los artefactos de Scrum!
 
 * Hazte con un tablero físico (ayuda mucho, en serio)
-* Ayuda al Product Owner a que entienda la *accountabilidad* del Backlog y a ordenarlo.
+* Ayuda al Product Owner a que entienda la *accountabilidad* del Backlog y a [ordenarlo](https://www.scrum.org/resources/ordered-not-prioritized).
 * Ayuda al equipo para mantener la premisa fundamental de entrega de valor como objetivo.
 * Establecer como equipo el calendario y horario de los eventos
  * Sprint (decidir la longitud del sprint)
@@ -101,7 +101,7 @@ Como parte del proceso de refinamiento, también es una buena práctica **estima
 
 *Working in progress*
  
-Para empezar, aclarar que la estimación de los PBIs forma parte del proceso de refinamiento y el objetivo es generar una conversación.
+Para empezar, aclarar que la estimación de los PBIs forma parte del proceso de refinamiento y el objetivo es generar una conversación. 
 
 
 
@@ -156,3 +156,8 @@ User story mapping
 Kano
 
 [**Método MoSCoW**](https://en.wikipedia.org/wiki/MoSCoW_method) es una técnica de priorización que permite clasificar los requerimientos en categorías de importancia en la entrega de producto (**Must have**, **Should have**, **Could have**, **Won't have** (*this time*)).  
+
+
+## Referencias
+
+* [**Jerónimo Palacios**](https://jeronimopalacios.com/): [*"En Scrum lo que importa es la velocidad"*](https://jeronimopalacios.com/2017/09/scrum-lo-importa-la-velocidad/)
