@@ -149,11 +149,20 @@ La generación de acciones para el siguiente sprint como PBI
 
 *Working in progress*
 
-User story mapping
+[**User story mapping**]()
 
-Kano
+[**Kano**]()
 
 [**Método MoSCoW**](https://en.wikipedia.org/wiki/MoSCoW_method) es una técnica de priorización que permite clasificar los requerimientos en categorías de importancia en la entrega de producto (**Must have**, **Should have**, **Could have**, **Won't have** (*this time*)).  
+
+[**Planning Poker**]() es una técnica de estimación de PBIs..
+
+[**No Estimates**]() es una técnica de estimación
+
+[**T-shirt sizing**]() al igual que el planning poker y no estimates, es otra técnica de estimación
+
+[**Affinity estimate**]() técnica de estimación
+
 
 
 ## Referencias
