@@ -87,10 +87,9 @@ Estamos a lunes y el miércoles empieza el Sprint 1!
 
 De cara a este primer sprint, ayuda al Product Owner a generar una primera versión del Product Backlog (podéis apoyaros con alguna técnica como la de  [***User Story Mapping***](http://jmbeas.es/guias/user-story-mapping/)) y a [**ordenarlo**](https://www.scrum.org/resources/ordered-not-prioritized). Una vez hecho esto, juntaros todo el equipo scrum, e intentar refinar los PBIs de cara al Sprint Planning. 
 
-> Un PBI es cualquier cosa que sea necesaria para completar el producto, desde casos de uso, historias de usuario, tareas técnicas o requerimientos no funcionales, por lo que procurar no forzar cada item a que sea una historia de usuario.
+Recordar que un PBI es cualquier cosa que sea necesaria para completar el producto, desde casos de uso, historias de usuario, tareas técnicas o requerimientos no funcionales, por lo que debéis intentar no forzar cada item a que sea una historia de usuario.
 
-
-Desde mi punto de vista, también es sería una buena práctica llegar al Sprint Planning con los PBIs estimados. Unos PBIs poco definidos, complejos o sin una pre-estimación,  generarán muchísima conversación en el evento de planificación que producirá complicaciones de time-box.
+Como parte del proceso de refinamiento, también es una buena práctica **estimar** los PBIs. Unos PBIs poco definidos, complejos o sin una estimación, en definitiva, sin refinar, generarán muchísima conversación en el evento de planificación que producirá complicaciones de time-box.
 
 > Queremos PBIs lo más [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) posible.
 

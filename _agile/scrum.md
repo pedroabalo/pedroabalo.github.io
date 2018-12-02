@@ -24,13 +24,13 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Es un marco de trabajo a través del cual las personas pueden abordar problemas
-complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el
-máximo valor.
+Es un framework que puedes utilizar para gestionar muchas cosas, incluido el desarrollo de productos complejos. Scrum se define en la [Guía de Scrum](https://www.scrumguides.org/scrum-guide.html) y consta de roles, eventos y artefactos y un conjunto de reglas que los unen. Se basa en el control empírico de procesos y el pensamiento de abajo hacia arriba.
 
 <h3>
 ¿Por dónde empiezo?
 </h3>
 
-Te recomiendo que leas mi siguiente [post](/agile/scrum-por-donde-empiezo/)
+Te recomiendo que leas mi siguiente [post](/agile/scrum-por-donde-empiezo/), y recurda que 
 
+> Scrum es simple pero no es fácil
+> > Ken Schwaber 
