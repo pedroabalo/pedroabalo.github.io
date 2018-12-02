@@ -160,4 +160,4 @@ Kano
 
 ## Referencias
 
-* [**Jerónimo Palacios**](https://jeronimopalacios.com/): [*"En Scrum lo que importa es la velocidad"*](https://jeronimopalacios.com/2017/09/scrum-lo-importa-la-velocidad/)
+* [**JMBeas](http://jmbeas.es): [*"User Story Mapping*](http://jmbeas.es/guias/user-story-mapping/)
