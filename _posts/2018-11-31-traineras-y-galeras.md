@@ -43,3 +43,9 @@ Este tipo de equipos, a mi entender, no pueden evolucionar en entornos jerarquiz
 Si la compañía en su contexto entiende cuándo sus estructuras deben ser más planas y cuándo deben crear equipos en red en vez de jerarquizados, entonces será capaz de adaptarse de una forma más temprana a este nuevo paradigma. A su vez, debe ser lo suficientemente inteligente para aplicar una u otra estructura en función de los casos e idealmente sin que esto pueda afectar a la motivación, desarrollo o creatividad del trabajador.
 
 Son las organizaciones que quieran o necesiten competir las que deberán transformarse y para ello, el cambio de *mindset* es fundamental. En este aspecto, ***Management 3.0*** puede ayudarte a través de su propio *mindset*, que te proporcionará ese conjunto de prácticas y herramientas para lograr un tipo de transformación tan profunda, que ataca directamente a la cultura de la propia organización y que permitirá recorrer este camino con las premisas de la felicidad, motivación y creatividad como constantes de aplicación en todo el proceso.
+
+
+### Referencias
+
+*Scrum - A Pocket Guide - Van Haren*
+*Jerónimo Palacios.* [*Management 3.0 ¿Qué es?*](https://jeronimopalacios.com/2018/06/management-3-0-que-es/)
