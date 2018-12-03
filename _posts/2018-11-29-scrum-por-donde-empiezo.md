@@ -112,9 +112,9 @@ Existen multitud de sitios donde puedes descargarte unas cartas o mismo estimar 
 
 Como comentaba en el apartado anterior, procurar no llegar a este evento sin haber trabajado previamente como equipo cada uno de los PBIs que el Product Owner presentará. Para ello utilizar el refinamiento, ya que esto nos ayudará a descomponer los PBIs e intentar que sean lo más INVEST posibles.
 
-Como recomendación, prestar atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; lo considero de una importancia enorme, sobre todo en equipos que están empezando con Scrum, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
+Prestar atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; es clave, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
 
-
+> Los equipos mejoran su entrega de valor cuando el **Goal del Sprint** está bien definido y se utiliza como guía durante el sprint.
 
 ## Daily Scrum
 
