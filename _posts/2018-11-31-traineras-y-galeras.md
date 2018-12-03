@@ -48,5 +48,5 @@ Son las organizaciones que quieran o necesiten competir las que deberán transfo
 
 ### Referencias
 
-* *Scrum - A Pocket Guide - Van Haren*
-* *Jerónimo Palacios.* [*Management 3.0 ¿Qué es?*](https://jeronimopalacios.com/2018/06/management-3-0-que-es/)
+* [*Scrum - A Pocket Guide - Van Haren*](https://www.amazon.es/Scrum-Pocket-Guide-Practice-Publishing-ebook/dp/B00GY6WRTG)
+* [*Alberto Serrano de Jerónimo Palacios.*](https://jeronimopalacios.com) [*Management 3.0 ¿Qué es?*](https://jeronimopalacios.com/2018/06/management-3-0-que-es/)
