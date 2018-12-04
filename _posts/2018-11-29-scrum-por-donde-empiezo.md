@@ -36,7 +36,7 @@ Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.sc
 * Product Owner
 * Scrum Master
 
-**Importante**: Hay que diferenciar cuándo se habla de Scrum Team y cuándo se habla de Dev Team, ya que las responsabilidades pueden afectar al rol de equipo de desarrollo o a todos los roles.
+> Diferenciar cuándo se habla de Scrum Team y cuándo se habla de Dev Team, ya que las responsabilidades pueden afectar al rol de equipo de desarrollo o a todos los roles.
 
 **Eventos**
 * Sprint
