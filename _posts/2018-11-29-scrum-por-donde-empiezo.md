@@ -92,7 +92,7 @@ Recordar que un PBI es cualquier cosa que sea necesaria para completar el produc
 
 Como parte del proceso de refinamiento, también es una buena práctica **estimar** los PBIs. Unos PBIs poco definidos, complejos y sin estimación, en definitiva sin refinar, generarán muchísima conversación en el evento de planificación que producirá complicaciones de time-box.
 
-> Queremos PBIs lo más [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) posible.
+> Queremos PBIs [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) y las tareas resultantes del refinamiento de los PBIs, que cumplan el criterio [SMART](https://en.wikipedia.org/wiki/SMART_criteria).
 
 
 ## Ahora que hablas de estimar, ¿cómo lo hago?
