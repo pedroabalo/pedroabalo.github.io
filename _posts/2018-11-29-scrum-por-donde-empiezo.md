@@ -17,12 +17,12 @@ máximo valor.
 
 Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.scrumguides.org/scrum-guide.html) de Scrum. Comentar que la guía está condensada de tal forma, que no existe ninguna frase dentro de ella que esté de más. Todo concepto, término o descripción es importante y tiene un propósito. Además, deberás conocer los pilares, los valores, los roles, los eventos y los artefactos que existen.
 
-**Pilares del empiricismo**
+### Pilares del empiricismo
 * Transparencia
 * Inspección
 * Adaptación
 
-**Valores de Scrum**
+### Valores de Scrum
 * Compromiso
 * Coraje
 * Foco
@@ -31,21 +31,21 @@ Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.sc
 
 ![Scrum-Values](/assets/images/scrum-values.jpg)
 
-**Roles que forman el Scrum Team**
+### Roles que forman el Scrum Team
 * Equipo de desarrollo
 * Product Owner
 * Scrum Master
 
 > Diferenciar cuándo se habla de Scrum Team y cuándo se habla de Dev Team, ya que las responsabilidades pueden afectar al rol de equipo de desarrollo o a todos los roles.
 
-**Eventos**
+### Eventos
 * Sprint
 * Daily Scrum
 * Sprint Planning
 * Retrospectiva
 * Sprint Review
 
-**Artefactos**
+### Artefactos
 * Product Backlog
 * Sprint Backlog
 * Incremento
