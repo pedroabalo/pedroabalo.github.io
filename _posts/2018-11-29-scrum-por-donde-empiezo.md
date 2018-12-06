@@ -124,6 +124,11 @@ También necesitaremos del equipo que determine la capacidad para este primer sp
 
 Como comentaba en el apartado anterior, procurar no llegar a este evento sin haber trabajado previamente como equipo cada uno de los PBIs que el Product Owner presentará. Para ello utilizar el refinamiento, ya que esto nos ayudará a descomponer los PBIs e intentar que sean lo más INVEST posibles.
 
+El Sprint Planning responde a lo siguiente:
+
+• ¿Qué puede entregarse en el Incremento resultante del Sprint que comienza?
+• ¿Cómo se conseguirá hacer el trabajo necesario para entregar el Incremento? 
+
 Prestar atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; es clave, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
 
 > Los equipos mejoran su entrega de valor cuando el **Goal del Sprint** está bien definido y se utiliza como guía durante el sprint.
