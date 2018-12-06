@@ -126,8 +126,9 @@ Como comentaba en el apartado anterior, procurar no llegar a este evento sin hab
 
 El Sprint Planning responde a lo siguiente:
 
-• ¿Qué puede entregarse en el Incremento resultante del Sprint que comienza?
-• ¿Cómo se conseguirá hacer el trabajo necesario para entregar el Incremento? 
+*¿Qué puede entregarse en el Incremento resultante del Sprint que comienza?*
+
+*¿Cómo se conseguirá hacer el trabajo necesario para entregar el Incremento?* 
 
 Prestar atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; es clave, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
 
