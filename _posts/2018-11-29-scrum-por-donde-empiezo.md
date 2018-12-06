@@ -115,7 +115,7 @@ Basándonos en dicha experiencia, el primer paso es dar una puntuación media (M
 
 También necesitaremos del equipo que determine la capacidad para este primer sprint. A medida que avancemos en los sprints, las estimaciones y la capacidad del equipo por sprint se irá ajustando.
 
-> El objetivo es la entrega 
+> El objetivo es la entrega de producto funcionando
 
 
 ## Sprint Planning
