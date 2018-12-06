@@ -90,16 +90,20 @@ De cara a este primer sprint, ayuda al Product Owner a generar una primera versi
 
 Recordar que un PBI es cualquier cosa que sea necesaria para completar el producto, desde casos de uso, historias de usuario, tareas técnicas o requerimientos no funcionales, por lo que debéis intentar no forzar cada item a que sea una historia de usuario.
 
-Como parte del proceso de refinamiento, también es una buena práctica **estimar** los PBIs. Unos PBIs poco definidos, complejos y sin estimación, en definitiva sin refinar, generarán muchísima conversación en el evento de planificación que producirá complicaciones de time-box.
+Como parte del proceso de refinamiento, también es una buena práctica **estimar** los PBIs en complejidad. Unos PBIs poco definidos y sin estimación, en definitiva sin refinar, generarán muchísima conversación en el evento de planificación que producirá complicaciones de time-box.
 
 > Queremos PBIs [INVEST](https://en.wikipedia.org/wiki/INVEST_(mnemonic)) y las tareas resultantes del refinamiento de los PBIs, que cumplan el criterio [SMART](https://en.wikipedia.org/wiki/SMART_criteria).
 
 
 ## Ahora que hablas de estimar, ¿cómo lo hago?
-
-*Working in progress*
  
-Para empezar, aclarar que la estimación de los PBIs forma parte del proceso de refinamiento (bien en el evento de Refinamiento o en el Sprint Planning) y el objetivo es generar una conversación. Existen algunas técnicas para ayudar a estimar al equipo y quizás la más famosa sea el ***Planning Poker***, pero existen otras que también nos pueden resultar útiles como ***T-shirt sizing***, ***No estimates*** o ***Affinity Estimation***. Este tipo de técnicas fomentan que se genere una conversación cuando no tenemos unanimidad sobre el nivel de complejidad de un *product backlog item* que estamos estimando.
+Me gustaría aclarar que la estimación de los PBIs en complejidad forma parte del proceso de refinamiento (bien en el evento de Refinamiento o en el Sprint Planning) y el objetivo es generar una conversación. Las puntuaciones (*Story Points*) asignadas a un PBI se basará en tamaño, complejidad y esfuerzo y no deben ser representados por ninguna métrica que implique duración (horas, días, etc). Los *Story Points* siempre van a tener una relación entre si conocida como Estimación Relativa y van a representar el esfuerzo necesario para dar un PBI por terminado según nuestro *Definition of Done*.
+
+> La estimación relativa es diferente entre equipos
+
+Existen algunas técnicas para ayudar a estimar al equipo y quizás la más famosa sea el ***Planning Poker***, pero existen otras que también nos pueden resultar útiles como ***T-shirt sizing***, ***No estimates*** o ***Affinity Estimation***. Este tipo de técnicas, que no forman parte de la definición de Scrum, fomentan que se genere una conversación cuando no tenemos unanimidad sobre el nivel de complejidad de un *product backlog item* que estamos estimando.
+
+> Scrum no pescribe una forma de estimación
 
 Existen multitud de sitios donde puedes descargarte unas cartas o mismo estimar con una app en Android o iOS. A mi, personalmente, me gusta mucho tanto la escala como las cartas que han diseñado el equipo de [Redbooth](https://github.com/redbooth/scrum-poker-cards).
 
@@ -175,3 +179,5 @@ La generación de acciones para el siguiente sprint como PBI
 *Working in progress*
 
 * [**JMBeas**](http://jmbeas.es): [*"User Story Mapping"*](http://jmbeas.es/guias/user-story-mapping/)
+
+* [**Scrum.org**](https://scrum.org): [*"La Velocidad en Scrum" by Joel Francia*](https://www.scrum.org/resources/blog/la-velocidad-en-scrum)
