@@ -59,7 +59,7 @@ Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.sc
 
 Con respecto a los medios materiales, considero que son importantes los espacios de modo que te permitan celebrar los eventos de una forma cómoda, así como elementos accesorios como tableros, post-it, rotuladores, etc.
 
-También considero fundamental que todas las personas del equipo lean la guía de Scrum, de modo que conozcan cuales son sus responsabilidades. En la guía verás que se habla en ocasiones de *accountable* y en ocasiones de *responsible*, y tienen una sutil diferencia. Por ejemplo un Product Owner puede delegar la gestión del Product Backlog en el equipo de desarrollo, por lo que estos serán ***responsibles*** de esta gestión, sin embargo, el Product Owner seguirá siendo ***accountable*** (es decir, responsable final).
+También considero fundamental que todas las personas del equipo lean la [guía](https://www.scrumguides.org/scrum-guide.html) de Scrum, de modo que conozcan cuales son sus responsabilidades. En la guía verás que se habla en ocasiones de *accountable* y en ocasiones de *responsible*, y tienen una sutil diferencia. Por ejemplo un Product Owner puede delegar la gestión del Product Backlog en el equipo de desarrollo, por lo que estos serán ***responsibles*** de esta gestión, sin embargo, el Product Owner seguirá siendo ***accountable*** (es decir, responsable final).
 
 ## Hemos formado un equipo Scrum, tenemos Product Owner y soy el Scrum Master
 
