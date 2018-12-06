@@ -97,7 +97,7 @@ Como parte del proceso de refinamiento, también es una buena práctica **estima
 
 ## Ahora que hablas de estimar, ¿cómo lo hago?
  
-Me gustaría aclarar que la estimación de los PBIs en complejidad forma parte del proceso de refinamiento (bien en el evento de Refinamiento o en el Sprint Planning) y el objetivo es generar una conversación. Las puntuaciones (*Story Points*) asignadas a un PBI se basará en tamaño, complejidad y esfuerzo y no deben ser representados por ninguna métrica que implique duración (horas, días, etc). Los *Story Points* siempre van a tener una relación entre si conocida como Estimación Relativa y van a representar el esfuerzo necesario para dar un PBI por terminado según nuestro *Definition of Done*.
+Me gustaría aclarar que la estimación de los PBIs en complejidad forma parte del proceso de refinamiento (bien en el evento de Refinamiento o en el Sprint Planning) y el objetivo es generar una conversación. Las puntuaciones (*Story Points*) asignadas a un PBI se basará en tamaño, complejidad y esfuerzo y no deberían ser representados por ninguna métrica que implique duración (horas, días, etc). Los *Story Points* siempre van a tener una relación entre si conocida como Estimación Relativa y van a representar el esfuerzo necesario para dar un PBI por terminado según nuestro *Definition of Done*.
 
 > La estimación relativa es diferente entre equipos
 
