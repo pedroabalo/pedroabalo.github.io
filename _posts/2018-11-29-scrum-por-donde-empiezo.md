@@ -113,9 +113,7 @@ Scrum se basa en el empiricismo y por tanto, en la experiencia. Al ser nuestro p
 
 Basándonos en dicha experiencia, el primer paso es dar una puntuación media (M o 5 puntos) al esfuerzo necesario para conseguir un PBI terminado siguiendo nuestro *Definition of Done*. Una vez identifiquemos dicho PBI con puntuación media, podremos comparar el resto de los PBIs del Product Backlog ordenado que el Product Owner está presentando para ir estableciendo las puntuaciones del resto.
 
-También necesitaremos de la experiencia previa del equipo para que determine la capacidad para este primer sprint. A medida que avancemos en los sprints, las estimaciones y la capacidad por sprint se irá afinando.
-
-Nuestra suposición
+También necesitaremos de la experiencia previa del equipo para que determine la capacidad para este primer sprint. A medida que avancemos en los sprints, las estimaciones y la capacidad por sprint se irá ajustando.
 
 
 ## Sprint Planning
