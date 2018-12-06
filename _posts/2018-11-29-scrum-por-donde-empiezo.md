@@ -107,7 +107,15 @@ Existen algunas técnicas para ayudar a estimar al equipo y quizás la más famo
 
 Existen multitud de sitios donde puedes descargarte unas cartas o mismo estimar con una app en Android o iOS. A mi, personalmente, me gusta mucho tanto la escala como las cartas que han diseñado el equipo de [Redbooth](https://github.com/redbooth/scrum-poker-cards).
 
+### Estimando
 
+Scrum se basa en el empiricismo y por tanto, en la experiencia. Al ser nuestro primer sprint por tanto, no hay datos y tendremos que hacer una suposición informada, esto es, basarnos en la experiencia del equipo en otros proyectos; después, ejecutamos, inspeccionamos y adaptamos.
+
+Basándonos en dicha experiencia, el primer paso es dar una puntuación media (M o 5 puntos) al esfuerzo necesario para conseguir un PBI terminado siguiendo nuestro *Definition of Done*. Una vez identifiquemos dicho PBI con puntuación media, podremos comparar el resto de los PBIs del Product Backlog ordenado que el Product Owner está presentando para ir estableciendo las puntuaciones del resto.
+
+También necesitaremos de la experiencia previa del equipo para que determine la capacidad para este primer sprint. A medida que avancemos en los sprints, las estimaciones y la capacidad por sprint se irá afinando.
+
+Nuestra suposición
 
 
 ## Sprint Planning
@@ -181,3 +189,7 @@ La generación de acciones para el siguiente sprint como PBI
 * [**JMBeas**](http://jmbeas.es): [*"User Story Mapping"*](http://jmbeas.es/guias/user-story-mapping/)
 
 * [**Scrum.org**](https://scrum.org): [*"La Velocidad en Scrum" by Joel Francia*](https://www.scrum.org/resources/blog/la-velocidad-en-scrum)
+
+* [**Jerónimo Palacios**](https://jeronimopalacios.com/): [*"En Scrum lo que importa es la velocidad"*](https://jeronimopalacios.com/2017/09/scrum-lo-importa-la-velocidad/)
+
+* [**Scrum and XP from the Trenches - 2nd edition**](https://www.amazon.es/Scrum-XP-Trenches-Henrik-Kniberg/dp/1329224272)
