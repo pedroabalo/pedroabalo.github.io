@@ -109,7 +109,7 @@ Existen multitud de sitios donde puedes descargarte unas cartas o mismo estimar 
 
 ### Estimando
 
-Scrum se basa en el empiricismo y por tanto, en la experiencia. Al ser nuestro primer sprint por tanto, no hay datos y tendremos que hacer una suposición informada, esto es, basarnos en la experiencia del equipo en otros proyectos; después, ejecutamos, inspeccionamos y adaptamos.
+Scrum se basa en el empiricismo y por tanto, en la experiencia. Al ser nuestro primer sprint no hay datos y tendremos que hacer una suposición informada, esto es, basarnos en la experiencia del equipo en otros proyectos; después, ejecutamos, inspeccionamos y adaptamos.
 
 Basándonos en dicha experiencia, el primer paso es dar una puntuación media (M o 5 puntos) al esfuerzo necesario para conseguir un PBI terminado siguiendo nuestro *Definition of Done*. Una vez identifiquemos dicho PBI con puntuación media, podremos comparar el resto de los PBIs del Product Backlog ordenado que el Product Owner está presentando para ir estableciendo las puntuaciones del resto.
 
