@@ -9,7 +9,7 @@ toc_label: "Scrum ¿Por dónde empiezo?"
 toc_icon: glasses
 ---
 
-**Scrum** es un framework a través del cual las personas pueden abordar problemas
+**Scrum** es un [framework](https://www.scrum.org/resources/blog/scrum-no-es-una-metodologia-es-un-framework) a través del cual las personas pueden abordar problemas
 complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el
 máximo valor.
 
@@ -113,7 +113,9 @@ Scrum se basa en el empiricismo y por tanto, en la experiencia. Al ser nuestro p
 
 Basándonos en dicha experiencia, el primer paso es dar una puntuación media (M o 5 puntos) al esfuerzo necesario para conseguir un PBI terminado siguiendo nuestro *Definition of Done*. Una vez identifiquemos dicho PBI con puntuación media, podremos comparar el resto de los PBIs del Product Backlog ordenado que el Product Owner está presentando para ir estableciendo las puntuaciones del resto.
 
-También necesitaremos del equipo que determine la capacidad para este primer sprint. A medida que avancemos en los sprints, las estimaciones y la capacidad por sprint se irá ajustando.
+También necesitaremos del equipo que determine la capacidad para este primer sprint. A medida que avancemos en los sprints, las estimaciones y la capacidad del equipo por sprint se irá ajustando.
+
+> El objetivo es la entrega 
 
 
 ## Sprint Planning
