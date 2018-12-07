@@ -63,9 +63,9 @@ También considero fundamental que todas las personas del equipo lean la [guía]
 
 ## Hemos formado un equipo Scrum, tenemos Product Owner y soy el Scrum Master
 
-Muy bien! ahora que habéis formado el equipo, deberás hacer unas primeras tareas básicas que vendrán muy bien de cara a nuestra organización. Recuerda que premia la autoorganización, por tanto, no intentes imponer un modelo sobre otro y deja que sea el conjunto del equipo el que decida la mejor forma de trabajar para la entrega de valor, que al fin y al cabo es nuestro objetivo.
+¡Muy bien! ahora que habéis formado el equipo, deberás hacer unas primeras tareas básicas que vendrán muy bien de cara a nuestra organización. Recuerda que premia la autoorganización, por tanto, no intentes imponer un modelo sobre otro y deja que sea el conjunto del equipo el que decida la mejor forma de trabajar para la entrega de valor, que al fin y al cabo es nuestro objetivo.
 
-Vuelve a revisar los eventos y los artefactos de Scrum!
+¡Vuelve a revisar los eventos y los artefactos de Scrum!
 
 * Hazte con un tablero físico (ayuda mucho, en serio)
 * Ayuda al Product Owner a que entienda la *accountabilidad* del Backlog y a [ordenarlo](https://www.scrum.org/resources/ordered-not-prioritized).
@@ -84,7 +84,7 @@ Vuelve a revisar los eventos y los artefactos de Scrum!
 
 ## Mi primer sprint, ¿cómo lo afronto?
 
-Estamos a lunes y el miércoles empieza el Sprint 1!
+¡Estamos a lunes y el miércoles empieza el Sprint 1!
 
 De cara a este primer sprint, ayuda al Product Owner a generar una primera versión del Product Backlog (podéis apoyaros con alguna técnica como la de  [***User Story Mapping***](http://jmbeas.es/guias/user-story-mapping/)) y a [**ordenarlo**](https://www.scrum.org/resources/ordered-not-prioritized). Una vez hecho esto, juntaros todo el equipo Scrum, e intentar refinar los PBIs de cara al Sprint Planning. 
 
