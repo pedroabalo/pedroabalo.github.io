@@ -113,14 +113,27 @@ Scrum se basa en el empiricismo y por tanto, en la experiencia. Al ser nuestro p
 
 Basándonos en dicha experiencia, el primer paso es dar una puntuación media (M o 5 puntos) al esfuerzo necesario para conseguir un PBI terminado siguiendo nuestro *Definition of Done*. Una vez identifiquemos dicho PBI con puntuación media, podremos comparar el resto de los PBIs del Product Backlog ordenado que el Product Owner está presentando para ir estableciendo las puntuaciones del resto.
 
-También necesitaremos del equipo que determine la capacidad para este primer sprint. A medida que avancemos en los sprints, las estimaciones y la capacidad del equipo por sprint se irá ajustando.
+### Capacidad, Velocidad y entrega de valor
 
-> El objetivo es la entrega de producto funcionando
+La **Capacidad** es la cantidad de trabajo que un equipo Scrum puede abordar en un sprint y esta directamente relacionada con la **Velocidad** del equipo, que es la suma de puntos de los PBIs terminados (cumplen el *Definition of Done*) al final de un sprint.
+
+> Si estás utilizando *T-shirt sizing*, asinga una puntuación a cada talla (S,M,L ...) para poder hacer proyecciones
+
+A medida que avancemos en los sprints, las estimaciones y la capacidad del equipo por sprint se irá ajustando y podremos hacer estimaciones más o menos fiables sobre la capacidad por sprint del equipo y la velocidad del mismo, pero siempre teniendo en cuenta que el desarrollo de software es algo complejo.
+
+¡Importante!
+
+* El **objetivo** es la entrega de **software terminado**
+* La **velocidad** entre equipos es **diferente**
+* Para hacer **estimaciones** más o menos **fiables**, se necesitan al menos tres o cuatro **sprints terminados**
+* El **desarrollo** de software es **complejo**
 
 
 ## Sprint Planning
 
 *Working in progress*
+
+
 
 Como comentaba en el apartado anterior, procurar no llegar a este evento sin haber trabajado previamente como equipo cada uno de los PBIs que el Product Owner presentará. Para ello utilizar el refinamiento, ya que esto nos ayudará a descomponer los PBIs e intentar que sean lo más INVEST posibles.
 
@@ -128,11 +141,15 @@ El Sprint Planning responde a lo siguiente:
 
 *¿Qué puede entregarse en el Incremento resultante del Sprint que comienza?*
 
+
 *¿Cómo se conseguirá hacer el trabajo necesario para entregar el Incremento?* 
 
 Prestar atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; es clave, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
 
 > Los equipos mejoran su entrega de valor cuando el **Goal del Sprint** está bien definido y se utiliza como guía durante el sprint.
+
+Del equipo necesitaremos que determine la capacidad para este primer sprint, es decir, cuántos PBIs será capaz de terminar.
+
 
 ## Daily Scrum
 
@@ -199,3 +216,5 @@ La generación de acciones para el siguiente sprint como PBI
 * [**Jerónimo Palacios**](https://jeronimopalacios.com/): [*"En Scrum lo que importa es la velocidad"*](https://jeronimopalacios.com/2017/09/scrum-lo-importa-la-velocidad/)
 
 * [**Scrum and XP from the Trenches - 2nd edition**](https://www.amazon.es/Scrum-XP-Trenches-Henrik-Kniberg/dp/1329224272)
+
+
