@@ -103,7 +103,7 @@ Me gustaría aclarar que la estimación de los PBIs en complejidad forma parte d
 
 Existen algunas técnicas para ayudar a estimar al equipo y quizás la más famosa sea el ***Planning Poker***, pero existen otras que también nos pueden resultar útiles como ***T-shirt sizing***, ***No estimates*** o ***Affinity Estimation***. Este tipo de técnicas, que no forman parte de la definición de Scrum, fomentan que se genere una conversación cuando no tenemos unanimidad sobre el nivel de complejidad de un *product backlog item* que estamos estimando.
 
-> Scrum no pescribe una forma de estimación
+> Scrum no prescribe una forma de estimación
 
 Existen multitud de sitios donde puedes descargarte unas cartas o mismo estimar con una app en Android o iOS. A mi, personalmente, me gusta mucho tanto la escala como las cartas que han diseñado el equipo de [Redbooth](https://github.com/redbooth/scrum-poker-cards).
 
