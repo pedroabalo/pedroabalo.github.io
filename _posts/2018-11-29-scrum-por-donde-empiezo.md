@@ -74,7 +74,7 @@ También considero fundamental que todas las personas del equipo lean la [guía]
  * Sprint (decidir la longitud del sprint)
  * Daily Scrum (no más de 15 minutos)
  * Sprint planning (4 horas máximo para sprint de 2 semanas)
- * Refinamiento (menos del 10% [capacidad](/#capacidad-velocidad-y-entrega-de-valor) del equipo - este decide cuándo y cómo)
+ * Refinamiento (menos del 10% [capacidad](#capacidad-velocidad-y-entrega-de-valor) del equipo - este decide cuándo y cómo)
  * Sprint review (2 horas máximo para sprint de 2 semanas)
  * Retrospectiva (menos de 3 horas para sprint de 2 semanas)
 * Establecer el ***Definition of Done***, es decir, lo mínimo necesario para que un PBI (Product Backlog Item) del backlog esté terminado y pase a formar parte del incremento
