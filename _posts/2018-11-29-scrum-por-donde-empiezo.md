@@ -126,7 +126,6 @@ A medida que avancemos en los sprints, las estimaciones y la capacidad del equip
 * El **objetivo** es la entrega de **software terminado**
 * La **velocidad** entre equipos es **diferente**
 * Para hacer **estimaciones** más o menos **fiables**, se necesitan al menos tres o cuatro **sprints terminados**
-* El **desarrollo** de software es **complejo**
 
 
 ## Sprint Planning
