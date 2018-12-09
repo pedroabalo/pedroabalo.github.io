@@ -32,24 +32,24 @@ Para empezar te recomiendo que leas **minuciosamente** la [guía](https://www.sc
 ![Scrum-Values](/assets/images/scrum-values.jpg)
 
 ### Roles que forman el Scrum Team
-* Equipo de desarrollo
-* Product Owner
-* Scrum Master
+* [Development Team (Equipo de Desarrollo)](https://www.scrumguides.org/scrum-guide.html#team-dev)
+* [Product Owner](https://www.scrumguides.org/scrum-guide.html#team-po)
+* [Scrum Master](https://www.scrumguides.org/scrum-guide.html#team-sm)
 
 > Diferenciar cuándo se habla de Scrum Team y cuándo se habla de Dev Team, ya que las responsabilidades pueden afectar al rol de equipo de desarrollo o a todos los roles.
 
 ### Eventos
-* Sprint
-* Daily Scrum
-* Sprint Planning
-* Retrospectiva
-* Sprint Review
+* [Sprint](https://www.scrumguides.org/scrum-guide.html#events-sprint)
+* [Daily Scrum](https://www.scrumguides.org/scrum-guide.html#events-daily)
+* [Sprint Planning](https://www.scrumguides.org/scrum-guide.html#events-planning)
+* [Retrospectiva](https://www.scrumguides.org/scrum-guide.html#events-retro)
+* [Sprint Review](https://www.scrumguides.org/scrum-guide.html#events-review)
 
 ### Artefactos
-* Product Backlog
-* Sprint Backlog
-* Incremento
-* Definition of Done (de transparencia)
+* [Product Backlog](https://www.scrumguides.org/scrum-guide.html#artifacts-productbacklog)
+* [Sprint Backlog](https://www.scrumguides.org/scrum-guide.html#artifacts-sprintbacklog)
+* [Incremento](https://www.scrumguides.org/scrum-guide.html#artifacts-increment)
+* [Definition of Done (de transparencia)](https://www.scrumguides.org/scrum-guide.html#artifact-transparency-done)
 
 ![Framework_Scrum](/assets/images/frameworkScrum.png)
 
