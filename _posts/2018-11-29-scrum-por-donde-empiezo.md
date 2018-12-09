@@ -154,6 +154,8 @@ Del equipo necesitaremos que determine la capacidad para este primer sprint, es 
 
 El número de elementos del Product Backlog seleccionados para el Sprint depende únicamente del Equipo de Desarrollo.
 
+Una vez que el equipo de desarrollo seleccione los PBIs que completan el objetivo del sprint
+
 
 ### Parte dos ¿Cómo se completará el trabajo seleccionado?
 
@@ -177,6 +179,9 @@ Qué es y qué no es?
 
 *Daily Scrum* es un evento diario de 15 minutos como máximo **para** el **Equipo de Desarrollo**. En ella, se planea el trabajo para las próximas 24 horas y se lleva a cabo cada día en la misma hora y mismo lugar para reducir complejidad.
 
+He visto en demasiadas ocasiones, cómo este evento se convierte en un reporte de lo que el developer ha hecho durante el día anterior y lo que va a hacer en el día en curso. Esto ocurre cuando la aplicación de Scrum se ha hecho por obligación o sin haberla fundamentado mínimamente en los pilares (Transparencia, Inspección, Adaptación) y valores (compromiso, coraje, foco, franqueza, respeto). Puede sonar a *cliché*, pero nada más lejos de la realidad, ya que si todo el equipo es capaz de alinearse con los valores, seremos capaces de confiar en el trabajo diario del equipo para lograr la meta del sprint.
+
+> La *Daily Scrum* es el principal evento que denota si un equipo está en Agile o está encubriendo un modelo *Waterfall*
 
 
 ## Retrospectiva
