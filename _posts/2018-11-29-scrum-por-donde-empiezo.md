@@ -141,17 +141,20 @@ El Sprint Planning responde a lo siguiente:
 *¿Qué puede entregarse en el Incremento resultante del Sprint que comienza?*
 
 
+
+Del equipo necesitaremos que determine la capacidad para este primer sprint, es decir, cuántos PBIs será capaz de terminar. A medida que avancemos en los sprints, el equipo afinará mejor la cantidad de PBIs que pueden entrar en un sprint, aunque siempre teniendo en cuenta que el desarrollo de software es algo complejo y en ocasiones, la capacidad puede ser excedida o no alcanzada.
+
 *¿Cómo se conseguirá hacer el trabajo necesario para entregar el Incremento?* 
 
 
-Del equipo necesitaremos que determine la capacidad para este primer sprint, es decir, cuántos PBIs será capaz de terminar. A medida que avancemos en los sprints, el equipo afinará mejor la cantidad de PBIs que pueden entrar en un sprint, aunque siempre teniendo en cuenta que el desarrollo de software es algo complejo y en ocasiones, la capacidad puede ser excedida o no alcanzada.
+
 
 
 ### Sprint Goal
 
 Prestar mucha atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; es clave, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
 
-> Los equipos mejoran su entrega de valor cuando el **Goal del Sprint** está bien definido y se utiliza como guía durante el sprint.
+> Los equipos mejoran su entrega de valor cuando el **Sprint Goal** está bien definido y se utiliza como guía durante el sprint.
 
 
 
