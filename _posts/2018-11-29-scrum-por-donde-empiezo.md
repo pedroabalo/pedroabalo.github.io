@@ -201,11 +201,11 @@ La generación de acciones para el siguiente sprint como PBI
 
 [**Planning Poker**](https://en.wikipedia.org/wiki/Planning_poker) es una técnica de estimación de PBIs.
 
-[**No Estimates**](http://www.barryovereem.com/the-noestimates-movement/) es un movimiento, no una técnica concreta de estimación, en relación a las estimaciones y previsiones del desarrollo de software. 
-
-[**T-shirt sizing**]() al igual que el Planning Poker y No Estimates, es otra técnica de estimación
-
 [**Affinity estimate**]() técnica de estimación
+
+[**T-shirt sizing**]() al igual que el Planning Poker y Affinity Estimates, es otra técnica de estimación
+
+[**No Estimates**](http://www.barryovereem.com/the-noestimates-movement/) es un movimiento, no una técnica concreta de estimación, en relación a las estimaciones y previsiones del desarrollo de software. 
 
 
 
