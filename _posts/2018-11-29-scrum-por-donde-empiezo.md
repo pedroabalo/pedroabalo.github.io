@@ -138,9 +138,9 @@ Como comentaba en el apartado anterior, procurar no llegar a este evento sin hab
 
 El Sprint Planning responde a lo siguiente
 
-*¿Qué puede entregarse en el Incremento resultante del Sprint que comienza?*
+* *¿Qué puede entregarse en el Incremento resultante del Sprint que comienza?*
 
-*¿Cómo se conseguirá hacer el trabajo necesario para entregar el Incremento?* 
+* *¿Cómo se conseguirá hacer el trabajo necesario para entregar el Incremento?* 
 
 y por tanto, podemos dividir el evento en dos partes.
 
