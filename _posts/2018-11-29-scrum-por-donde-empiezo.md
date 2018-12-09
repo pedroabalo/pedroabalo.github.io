@@ -148,9 +148,9 @@ y por tanto, podemos dividir el evento en dos partes.
 
 El Product Owner arrancará esta primera parte del evento discutiendo el objetivo que el Sprint debería lograr y los elementos (PBIs) del Product Backlog que si se completan, lograrían ese objetivo.
 
-Del equipo necesitaremos que determine la capacidad para este primer sprint, es decir, cuántos PBIs será capaz de terminar. 
+Del equipo necesitaremos que determine la capacidad para este primer sprint, es decir, cuántos PBIs será capaz de terminar, aunque siempre teniendo en cuenta que el desarrollo de software es algo complejo y en ocasiones, la capacidad puede ser excedida o no alcanzada.
 
-> A medida que avancemos en los sprints, el equipo afinará mejor la cantidad de PBIs que pueden entrar en un sprint, aunque siempre teniendo en cuenta que el desarrollo de software es algo complejo y en ocasiones, la capacidad puede ser excedida o no alcanzada.
+> A medida que avancemos en los sprints, el equipo afinará mejor la cantidad de PBIs que pueden entrar en un sprint
 
 El número de elementos del Product Backlog seleccionados para el Sprint depende únicamente del Equipo de Desarrollo.
 
