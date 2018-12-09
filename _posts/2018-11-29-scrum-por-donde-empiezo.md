@@ -136,17 +136,24 @@ El trabajo a realizar durante el Sprint se planifica en el *Sprint Planning* y e
 
 Como comentaba en el apartado anterior, procurar no llegar a este evento sin haber trabajado previamente como equipo cada uno de los PBIs que el Product Owner presentará. Para ello utilizar el refinamiento, ya que esto nos ayudará a descomponer los PBIs e intentar que sean lo más INVEST posibles.
 
-El Sprint Planning responde a lo siguiente:
+El Sprint Planning responde a lo siguiente
 
 *¿Qué puede entregarse en el Incremento resultante del Sprint que comienza?*
 
+*¿Cómo se conseguirá hacer el trabajo necesario para entregar el Incremento?* 
 
+y por tanto, podemos dividir el evento en dos partes.
+
+### Parte uno ¿Qué puede hacerse en este sprint?
+
+El Product Owner arrancará esta primera parte del evento discutiendo el objetivo que el Sprint debería lograr y los elementos (PBIs) del Product Backlog que si se completan, lograrían ese objetivo.
 
 Del equipo necesitaremos que determine la capacidad para este primer sprint, es decir, cuántos PBIs será capaz de terminar. A medida que avancemos en los sprints, el equipo afinará mejor la cantidad de PBIs que pueden entrar en un sprint, aunque siempre teniendo en cuenta que el desarrollo de software es algo complejo y en ocasiones, la capacidad puede ser excedida o no alcanzada.
 
-*¿Cómo se conseguirá hacer el trabajo necesario para entregar el Incremento?* 
+El número de elementos del Product Backlog seleccionados para el Sprint depende únicamente del Equipo de Desarrollo.
 
 
+### Parte dos ¿Cómo se completará el trabajo seleccionado?
 
 
 
@@ -155,6 +162,8 @@ Del equipo necesitaremos que determine la capacidad para este primer sprint, es 
 Prestar mucha atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; es clave, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
 
 > Los equipos mejoran su entrega de valor cuando el **Sprint Goal** está bien definido y se utiliza como guía durante el sprint.
+
+Además, el Sprint Goal nos servirá para no perder el objetivo de Sprint en caso de que se produzca cualquier tipo de inconveniente.
 
 
 
