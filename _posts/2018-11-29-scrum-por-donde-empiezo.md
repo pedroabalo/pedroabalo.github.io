@@ -146,19 +146,20 @@ y por tanto, podemos dividir el evento en dos partes.
 
 ### Parte uno ¿Qué puede hacerse en este sprint?
 
-El Product Owner arrancará esta primera parte del evento discutiendo el objetivo que el Sprint debería lograr y los elementos (PBIs) del Product Backlog que si se completan, lograrían ese objetivo.
+El Product Owner arrancará esta primera parte del evento discutiendo el objetivo (la idea, no confundir con el *Sprint Goal* aunque esté directamente ligado) que el Sprint debería lograr y los elementos (PBIs) del Product Backlog que si se completan, lograrían ese objetivo.
 
 Del equipo necesitaremos que determine la capacidad para este primer sprint, es decir, cuántos PBIs será capaz de terminar, aunque siempre teniendo en cuenta que el desarrollo de software es algo complejo y en ocasiones, la capacidad puede ser excedida o no alcanzada.
 
 > A medida que avancemos en los sprints, el equipo afinará mejor la cantidad de PBIs que pueden entrar en un sprint
 
-El número de elementos del Product Backlog seleccionados para el Sprint depende únicamente del Equipo de Desarrollo.
+El número de elementos del Product Backlog seleccionados para el Sprint depende únicamente del Equipo de Desarrollo y está relacionado con su capacidad y la estimación de esfuerzo de cada uno de los PBIs que el Product Owner ha ido presentando para lograr el objetivo del Sprint.
 
-Una vez que el equipo de desarrollo seleccione los PBIs que completan el objetivo del sprint
+Una vez que el equipo de desarrollo selecciona los PBIs que completan el objetivo del sprint, el **Scrum Team** define dicho *Sprint Goal* y queda establecido como meta para todo el sprint.
 
 
 ### Parte dos ¿Cómo se completará el trabajo seleccionado?
 
+Ahora que ya tenemos el *Sprint Goal* y el conjunto de PBIs lograrán esta meta, es el momento de realizar un plan que logre terminar cada uno de los elementos seleccionados. Estos PBIs seleccionados, más el plan para terminarlos, recibe el nombre de **Sprint Backlog**.
 
 
 ### Sprint Goal
