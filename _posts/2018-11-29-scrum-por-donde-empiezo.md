@@ -132,7 +132,7 @@ A medida que avancemos en los sprints, las estimaciones y la capacidad del equip
 
 *Working in progress*
 
-
+El trabajo a realizar durante el Sprint se planifica en el *Sprint Planning* y en el participa **todo** el *Scrum Team*.
 
 Como comentaba en el apartado anterior, procurar no llegar a este evento sin haber trabajado previamente como equipo cada uno de los PBIs que el Product Owner presentará. Para ello utilizar el refinamiento, ya que esto nos ayudará a descomponer los PBIs e intentar que sean lo más INVEST posibles.
 
@@ -143,11 +143,16 @@ El Sprint Planning responde a lo siguiente:
 
 *¿Cómo se conseguirá hacer el trabajo necesario para entregar el Incremento?* 
 
-Prestar atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; es clave, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
+
+Del equipo necesitaremos que determine la capacidad para este primer sprint, es decir, cuántos PBIs será capaz de terminar. A medida que avancemos en los sprints, el equipo afinará mejor la cantidad de PBIs que pueden entrar en un sprint, aunque siempre teniendo en cuenta que el desarrollo de software es algo complejo y en ocasiones, la capacidad puede ser excedida o no alcanzada.
+
+
+### Sprint Goal
+
+Prestar mucha atención a la definición como equipo del [**Objetivo del Sprint**](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal) en cada planificación; es clave, ya que nos sirve de guía y nos ayuda con el **foco** de una forma increíble a través de todo el Sprint.
 
 > Los equipos mejoran su entrega de valor cuando el **Goal del Sprint** está bien definido y se utiliza como guía durante el sprint.
 
-Del equipo necesitaremos que determine la capacidad para este primer sprint, es decir, cuántos PBIs será capaz de terminar.
 
 
 ## Daily Scrum
@@ -184,7 +189,7 @@ La generación de acciones para el siguiente sprint como PBI
 
 *Working in progress*
 
-## Herramientas, métodos y técnicas
+## Herramientas, métodos y técnicas (o movimientos)
 
 *Working in progress*
 
@@ -194,9 +199,9 @@ La generación de acciones para el siguiente sprint como PBI
 
 [**Método MoSCoW**](https://en.wikipedia.org/wiki/MoSCoW_method) es una técnica de priorización que permite clasificar los requerimientos en categorías de importancia en la entrega de producto (**Must have**, **Should have**, **Could have**, **Won't have** (*this time*)).  
 
-[**Planning Poker**]() es una técnica de estimación de PBIs..
+[**Planning Poker**](https://en.wikipedia.org/wiki/Planning_poker) es una técnica de estimación de PBIs.
 
-[**No Estimates**]() es una técnica de estimación
+[**No Estimates**](http://www.barryovereem.com/the-noestimates-movement/) es un movimiento, no una técnica concreta de estimación, en relación a las estimaciones y previsiones del desarrollo de software. 
 
 [**T-shirt sizing**]() al igual que el Planning Poker y No Estimates, es otra técnica de estimación
 
