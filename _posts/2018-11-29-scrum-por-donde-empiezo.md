@@ -130,11 +130,11 @@ A medida que avancemos en los sprints, las estimaciones y la capacidad del equip
 
 ## Sprint Planning
 
-*Working in progress*
-
 El trabajo a realizar durante el Sprint se planifica en el *Sprint Planning* y en el participa **todo** el *Scrum Team*.
 
 Como comentaba en el apartado anterior, procurar no llegar a este evento sin haber trabajado previamente como equipo cada uno de los PBIs que el Product Owner presentará. Para ello utilizar el refinamiento, ya que esto nos ayudará a descomponer los PBIs e intentar que sean lo más INVEST posibles.
+
+> ¡En este [**blog**](https://mamaqueesscrum.com/2018/06/04/como-preparar-la-sprint-planning/) encontrarás unos consejos muy útiles de cómo preparar esta reunión!
 
 El Sprint Planning responde a lo siguiente
 
@@ -146,13 +146,15 @@ y por tanto, podemos dividir el evento en dos partes.
 
 ### Parte uno ¿Qué puede hacerse en este sprint?
 
-El Product Owner arrancará esta primera parte del evento discutiendo el objetivo (la idea, no confundir con el *Sprint Goal* aunque esté directamente ligado) que el Sprint debería lograr y los elementos (PBIs) del Product Backlog que si se completan, lograrían ese objetivo.
+El Product Owner arrancará esta primera parte del evento discutiendo el objetivo (la idea, no confundir con el [*Sprint Goal*](#sprint-goal) aunque esté directamente ligado) que el Sprint debería lograr y los elementos (PBIs) del Product Backlog que si se completan, lograrían ese objetivo.
 
-Del equipo necesitaremos que determine la capacidad para este primer sprint, es decir, cuántos PBIs será capaz de terminar, aunque siempre teniendo en cuenta que el desarrollo de software es algo complejo y en ocasiones, la capacidad puede ser excedida o no alcanzada.
+Del equipo necesitaremos que determine la capacidad para este primer sprint, es decir, cuántos PBIs será capaz de terminar, aunque siempre teniendo en cuenta que el desarrollo de software es algo complejo y en ocasiones, la capacidad puede ser excedida o no alcanzada. 
 
-> A medida que avancemos en los sprints, el equipo afinará mejor la cantidad de PBIs que pueden entrar en un sprint
+> A medida que avancemos en los sprints, el equipo afinará mejor la cantidad de PBIs que pueden entrar en un sprint, es decir, su capacidad real estimada.
 
 El número de elementos del Product Backlog seleccionados para el Sprint depende únicamente del Equipo de Desarrollo y está relacionado con su capacidad y la estimación de esfuerzo de cada uno de los PBIs que el Product Owner ha ido presentando para lograr el objetivo del Sprint.
+
+> Volver a hacer una estimación final aunque ya se hayan estimado en el refinamiento.
 
 Una vez que el equipo de desarrollo selecciona los PBIs que completan el objetivo del sprint, el **Scrum Team** define dicho *Sprint Goal* y queda establecido como meta para todo el sprint.
 
@@ -161,6 +163,9 @@ Una vez que el equipo de desarrollo selecciona los PBIs que completan el objetiv
 
 Ahora que ya tenemos el *Sprint Goal* y el conjunto de PBIs lograrán esta meta, es el momento de realizar un plan que logre terminar cada uno de los elementos seleccionados. Estos PBIs seleccionados, más el plan para terminarlos, recibe el nombre de **Sprint Backlog**.
 
+Para poder realizar este plan, el equipo de desarollo deberá descomponer en lo que queda de reunión, los primeros PBIs en tareas de al menos un día, para tener suficiente trabajo en los primeros días del sprint. A medida que avancemos en el sprint, podremos continuar descomponiendo el resto de PBIs.
+
+> ¡Importante! El Scrum Master debe enseñar al equipo a mantenerse dentro del time-box para este evento.
 
 ### Sprint Goal
 
@@ -171,20 +176,26 @@ Prestar mucha atención a la definición como equipo del [**Objetivo del Sprint*
 Además, el Sprint Goal nos servirá para no perder el objetivo de Sprint en caso de que se produzca cualquier tipo de inconveniente.
 
 
-
 ## Daily Scrum
 
-*Working in progress*
-
-Qué es y qué no es?
-
 *Daily Scrum* es un evento diario de 15 minutos como máximo **para** el **Equipo de Desarrollo**. En ella, se planea el trabajo para las próximas 24 horas y se lleva a cabo cada día en la misma hora y mismo lugar para reducir complejidad.
-
 
 He visto en muchas ocasiones, cómo este evento se convierte en un reporte de lo que el developer ha hecho durante el día anterior y lo que va a hacer en el día en curso. Esto ocurre cuando la aplicación de Scrum se ha hecho por obligación o sin haberla fundamentado mínimamente en los pilares (Transparencia, Inspección, Adaptación) y valores (compromiso, coraje, foco, franqueza, respeto). Puede sonar a *cliché*, pero nada más lejos de la realidad, ya que si todo el equipo es capaz de alinearse con los valores, seremos capaces de confiar en el trabajo diario del equipo para lograr la meta del sprint.
 
 > La ***Daily Scrum*** nos puede servir de **termómetro** para comprobar si un equipo está en un modelo *Agile* o está encubriendo un modelo *Waterfall*
 
+La mayoría de la gente, adopta la técnica de responder a tres preguntas: 
+* ¿Qué hice ayer?
+* ¿Qué voy a hacer hoy?
+* ¿Qué impedimentos tengo?
+
+El problema de estas tres preguntas es que le falta una segunda parte que nos va a ayudar a que los developers tengan foco y no piensen en el evento como una reunión de control:
+
+* ¿Qué hice ayer **para conseguir el Objetivo del Sprint**?
+* ¿Qué voy a hacer hoy **para conseguir el Objetivo del Sprint**?
+* ¿Qué impedimentos tengo **para conseguir el Objetivo del Sprint**?
+
+> Por favor, si eres Scrum Master y el Product Owner quiere hablar, no lo hagas callar basándote en la guía de Scrum :)
 
 ## Retrospectiva
 
@@ -214,9 +225,10 @@ La generación de acciones para el siguiente sprint como PBI
 
 *Working in progress*
 
-[**User story mapping**]()
+[**User story mapping**](http://www.jpattonassociates.com/user-story-mapping/) es un ejercicio visual que ayuda a definir y crear una experiencia de usuario de una forma más sencilla. Se utiliza para mejorar la comprensión de los equipos y para priorizar el trabajo.
 
-[**Kano**]()
+
+[**Kano**](https://es.wikipedia.org/wiki/Modelo_de_Kano) o **Modelo de Kano** es una teoría de desarrollo de producto y en el que clasifica las preferencias del cliente en cinco categorías, sirviendo así como una técnica más de ayuda a la priorización de desarrollo de producto en base a dichas categorías.
 
 [**Método MoSCoW**](https://en.wikipedia.org/wiki/MoSCoW_method) es una técnica de priorización que permite clasificar los requerimientos en categorías de importancia en la entrega de producto (**Must have**, **Should have**, **Could have**, **Won't have** (*this time*)).  
 
@@ -241,5 +253,7 @@ La generación de acciones para el siguiente sprint como PBI
 * [**Jerónimo Palacios**](https://jeronimopalacios.com/): [*"En Scrum lo que importa es la velocidad"*](https://jeronimopalacios.com/2017/09/scrum-lo-importa-la-velocidad/)
 
 * [**Scrum and XP from the Trenches - 2nd edition**](https://www.amazon.es/Scrum-XP-Trenches-Henrik-Kniberg/dp/1329224272)
+
+* **Javier de Agar Martin Tirado**: [*"Cómo preparar la Sprint Planning"*](https://mamaqueesscrum.com/2018/06/04/como-preparar-la-sprint-planning/)
 
 
