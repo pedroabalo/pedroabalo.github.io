@@ -178,7 +178,7 @@ Además, el Sprint Goal nos servirá para no perder el objetivo de Sprint en cas
 
 ## Daily Scrum
 
-*Daily Scrum* es un evento diario de 15 minutos como máximo **para** el **Equipo de Desarrollo**. En ella, se planea el trabajo para las próximas 24 horas y se lleva a cabo cada día en la misma hora y mismo lugar para reducir complejidad.
+*Daily Scrum* es un evento diario de 15 minutos como máximo **para** el **Equipo de Desarrollo**. En él se planea el trabajo para las próximas 24 horas y se lleva a cabo cada día en la misma hora y mismo lugar para reducir complejidad.
 
 He visto en muchas ocasiones, cómo este evento se convierte en un reporte de lo que el developer ha hecho durante el día anterior y lo que va a hacer en el día en curso. Esto ocurre cuando la aplicación de Scrum se ha hecho por obligación o sin haberla fundamentado mínimamente en los pilares (Transparencia, Inspección, Adaptación) y valores (compromiso, coraje, foco, franqueza, respeto). Puede sonar a *cliché*, pero nada más lejos de la realidad, ya que si todo el equipo es capaz de alinearse con los valores, seremos capaces de confiar en el trabajo diario del equipo para lograr la meta del sprint.
 
@@ -189,7 +189,7 @@ La mayoría de la gente, adopta la técnica de responder a tres preguntas:
 * ¿Qué voy a hacer hoy?
 * ¿Qué impedimentos tengo?
 
-El problema de estas tres preguntas es que le falta una segunda parte que nos va a ayudar a que los developers tengan foco y no piensen en el evento como una reunión de control:
+El problema de estas tres preguntas es que le falta una segunda parte que nos va a ayudar a que el Equipo de Desarrollo tenga foco y no piense en el evento como una reunión de control:
 
 * ¿Qué hice ayer **para conseguir el Objetivo del Sprint**?
 * ¿Qué voy a hacer hoy **para conseguir el Objetivo del Sprint**?
