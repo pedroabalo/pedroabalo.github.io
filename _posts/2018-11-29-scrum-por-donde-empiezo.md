@@ -254,6 +254,6 @@ La generación de acciones para el siguiente sprint como PBI
 
 * [**Scrum and XP from the Trenches - 2nd edition**](https://www.amazon.es/Scrum-XP-Trenches-Henrik-Kniberg/dp/1329224272)
 
-* **Javier de Agar Martin Tirado**: [*"Cómo preparar la Sprint Planning"*](https://mamaqueesscrum.com/2018/06/04/como-preparar-la-sprint-planning/)
+* [**Javier Martin de Agar Tirado**](https://mamaqueesscrum.com/author/epsilon8888/): [*"Cómo preparar la Sprint Planning"*](https://mamaqueesscrum.com/2018/06/04/como-preparar-la-sprint-planning/)
 
 
