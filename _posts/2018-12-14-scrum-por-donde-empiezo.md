@@ -197,6 +197,23 @@ El problema de estas tres preguntas es que le falta una segunda parte que nos va
 
 > Por favor, si eres Scrum Master y el Product Owner quiere hablar, no lo hagas callar basándote en la guía de Scrum :)
 
+## Sprint Review
+
+La *Sprint Review* se lleva a cabo al final del Sprint para inspeccionar el incremento y adaptar el *Product Backlog* si es necesario.
+
+> Un grand artículo sobre la Sprint Review se puede encontrar en este [enlace](https://jeronimopalacios.com/2016/05/la-receta-conseguir-buen-sprint-review/)
+
+Algunos puntos importantes citados son
+
+* Es una reunión informal, no una reunión de estado ni una demo
+* No está para aplaudir al equipo de desarrollo
+* No es el momento de aceptar los PBIs terminados
+
+Esperar a la Sprint Review para aceptar los PBIs terminados, resultaría en un **gráfico de burndown** totalmente plano con una caída en el último día de sprint. Es el Product Owner el que debe colaborar con el equipo Scrum durante todo el sprint para ir aceptando los PBIs hechos acorde a nuestra Definition of Done.
+
+> Es una reunión de negocio donde los stakeholders dan feedback y el resultado es un Product Backlog actualizado con este feedback.
+
+
 ## Retrospectiva
 
 *Working in progress*
@@ -209,11 +226,7 @@ La generación de acciones para el siguiente sprint como un PBI
 
 *Working in progress*
 
-## Sprint Review
 
-*Working in progress*
-
-¿Qué es y qué no es?
 
 
 
@@ -240,6 +253,7 @@ La generación de acciones para el siguiente sprint como un PBI
 
 [**No Estimates**](http://www.barryovereem.com/the-noestimates-movement/) es un movimiento, no una técnica concreta de estimación, en relación a las estimaciones y previsiones del desarrollo de software. 
 
+[**Gráfico de Burndown**](https://es.wikipedia.org/wiki/Burn_down_chart) es una representación gráfica del trabajo restante en un sprint. En el eje X mostramos el trabajo que queda por hacer y en el eje y el tiempo. Ha ido perdiendo importancia en las sucesivas revisiones de la guía de Scrum.
 
 
 ## Referencias
@@ -255,5 +269,7 @@ La generación de acciones para el siguiente sprint como un PBI
 * [**Scrum and XP from the Trenches - 2nd edition**](https://www.amazon.es/Scrum-XP-Trenches-Henrik-Kniberg/dp/1329224272)
 
 * [**Javier Martin de Agar Tirado**](https://mamaqueesscrum.com/author/epsilon8888/): [*"Cómo preparar la Sprint Planning"*](https://mamaqueesscrum.com/2018/06/04/como-preparar-la-sprint-planning/)
+
+* [**Jerónimo Palacios**](https://jeronimopalacios.com/): [*"ELa receta para conseguir un buen Sprint Review"*](https://jeronimopalacios.com/2016/05/la-receta-conseguir-buen-sprint-review/)
 
 
