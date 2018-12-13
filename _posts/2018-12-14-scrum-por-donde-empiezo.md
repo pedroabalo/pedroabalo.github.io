@@ -258,8 +258,6 @@ La generación de acciones para el siguiente sprint como un PBI
 
 ## Referencias
 
-*Working in progress*
-
 * [**JMBeas**](http://jmbeas.es): [*"User Story Mapping"*](http://jmbeas.es/guias/user-story-mapping/)
 
 * [**Scrum.org**](https://scrum.org): [*"La Velocidad en Scrum" by Joel Francia*](https://www.scrum.org/resources/blog/la-velocidad-en-scrum)
@@ -270,6 +268,6 @@ La generación de acciones para el siguiente sprint como un PBI
 
 * [**Javier Martin de Agar Tirado**](https://mamaqueesscrum.com/author/epsilon8888/): [*"Cómo preparar la Sprint Planning"*](https://mamaqueesscrum.com/2018/06/04/como-preparar-la-sprint-planning/)
 
-* [**Jerónimo Palacios**](https://jeronimopalacios.com/): [*"ELa receta para conseguir un buen Sprint Review"*](https://jeronimopalacios.com/2016/05/la-receta-conseguir-buen-sprint-review/)
+* [**Jerónimo Palacios**](https://jeronimopalacios.com/): [*"La receta para conseguir un buen Sprint Review"*](https://jeronimopalacios.com/2016/05/la-receta-conseguir-buen-sprint-review/)
 
 
