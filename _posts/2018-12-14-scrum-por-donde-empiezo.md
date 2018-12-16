@@ -201,7 +201,7 @@ El problema de estas tres preguntas es que le falta una segunda parte que nos va
 
 La *Sprint Review* se lleva a cabo al final del Sprint para inspeccionar el incremento y adaptar el *Product Backlog* si es necesario.
 
-> Un grand artículo sobre la Sprint Review se puede encontrar en este [enlace](https://jeronimopalacios.com/2016/05/la-receta-conseguir-buen-sprint-review/)
+> Un gran artículo sobre la Sprint Review se puede encontrar en este [enlace](https://jeronimopalacios.com/2016/05/la-receta-conseguir-buen-sprint-review/)
 
 Algunos puntos importantes citados son
 
