@@ -161,7 +161,7 @@ Una vez que el equipo de desarrollo selecciona los PBIs que completan el objetiv
 
 ### Parte dos ¿Cómo se completará el trabajo seleccionado?
 
-Ahora que ya tenemos el *Sprint Goal* y el conjunto de PBIs lograrán esta meta, es el momento de realizar un plan que logre terminar cada uno de los elementos seleccionados. Estos PBIs seleccionados, más el plan para terminarlos, recibe el nombre de **Sprint Backlog**.
+Ahora que ya tenemos el *Sprint Goal* y el conjunto de PBIs que lograrán esta meta, es el momento de realizar un plan que logre terminar cada uno de los elementos seleccionados. Estos PBIs seleccionados, más el plan para terminarlos, recibe el nombre de **Sprint Backlog**.
 
 Para poder realizar este plan, el equipo de desarollo deberá descomponer en lo que queda de reunión, los primeros PBIs en tareas de al menos un día, para tener suficiente trabajo en los primeros días del sprint. A medida que avancemos en el sprint, podremos continuar descomponiendo el resto de PBIs.
 
@@ -195,7 +195,7 @@ El problema de estas tres preguntas es que le falta una segunda parte que nos va
 * ¿Qué voy a hacer hoy **para conseguir el Objetivo del Sprint**?
 * ¿Qué impedimentos tengo **para conseguir el Objetivo del Sprint**?
 
-> Por favor, si eres Scrum Master y el Product Owner quiere hablar, no lo hagas callar basándote en la guía de Scrum :)
+> Por favor, si eres Scrum Master y el Product Owner quiere hablar, no lo hagas callar basándote en la guía de Scrum ;)
 
 ## Sprint Review
 
@@ -217,6 +217,21 @@ Esperar a la Sprint Review para aceptar los PBIs terminados, resultaría en un *
 ## Retrospectiva
 
 *Working in progress*
+
+La *Sprint Retrospective* es una oportunidad para que el equipo Scrum se inspeccione a si mismo y crear un plan de mejoras que sean abordadas durante el siguiente sprint.
+
+El propósito de la Retrospectiva es:
+
+* Inspeccionar cómo fue el último Sprint en cuanto a personas, relaciones, procesos y
+herramientas
+* Identificar y ordenar los elementos más importantes que salieron bien y las posibles
+mejoras
+* Crear un plan para implementar las mejoras a la forma en la que el Equipo Scrum
+desempeña su trabajo.
+
+A esto debemos añadir la inspección y adaptación de nuestro *Definition of Done*
+
+Además, cuando hablamos de plan, nos referimos a generar PBI que pasen a formar directamente parte de nuestro siguiente Sprint Backlog.
 
 La generación de acciones para el siguiente sprint como un PBI
 
