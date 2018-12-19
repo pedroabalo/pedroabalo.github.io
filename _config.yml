@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://pedroabalo.com"
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://linkedin.com/in/pedroabalo"  
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -130,7 +130,7 @@ author:
 footer:
   links:
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin-in"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://linkedin.com/in/pedroabalo"  
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
