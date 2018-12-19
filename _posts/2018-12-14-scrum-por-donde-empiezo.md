@@ -175,6 +175,8 @@ Prestar mucha atención a la definición como equipo del [**Objetivo del Sprint*
 
 Además, el Sprint Goal nos servirá para no perder el objetivo de Sprint en caso de que se produzca cualquier tipo de inconveniente.
 
+En este [link](https://www.romanpichler.com/blog/sprint-goal-template/) podréis encontrar una buena plantilla para generar *Sprint Goals*.
+
 
 ## Daily Scrum
 
@@ -280,6 +282,8 @@ La generación de acciones para el siguiente sprint como un PBI
 * [**Jerónimo Palacios**](https://jeronimopalacios.com/): [*"En Scrum lo que importa es la velocidad"*](https://jeronimopalacios.com/2017/09/scrum-lo-importa-la-velocidad/)
 
 * [**Scrum and XP from the Trenches - 2nd edition**](https://www.amazon.es/Scrum-XP-Trenches-Henrik-Kniberg/dp/1329224272)
+
+* [**Scrum.org**](https://scrum.org): [*"The 11 advantages of using a Sprint Goal"*](https://www.scrum.org/resources/blog/11-advantages-using-sprint-goal)
 
 * [**Javier Martin de Agar Tirado**](https://mamaqueesscrum.com/author/epsilon8888/): [*"Cómo preparar la Sprint Planning"*](https://mamaqueesscrum.com/2018/06/04/como-preparar-la-sprint-planning/)
 
