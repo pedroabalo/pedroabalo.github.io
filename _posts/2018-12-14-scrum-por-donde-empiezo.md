@@ -285,4 +285,6 @@ La generación de acciones para el siguiente sprint como un PBI
 
 * [**Jerónimo Palacios**](https://jeronimopalacios.com/): [*"La receta para conseguir un buen Sprint Review"*](https://jeronimopalacios.com/2016/05/la-receta-conseguir-buen-sprint-review/)
 
+* [**Jerónimo Palacios**](https://jeronimopalacios.com/): [*"7 razones por las que las retrospectivas en Scrum fallan"*](https://jeronimopalacios.com/2016/05/7-razones-por-las-que-las-retrospectivas-en-scrum-fallan/)
+
 
