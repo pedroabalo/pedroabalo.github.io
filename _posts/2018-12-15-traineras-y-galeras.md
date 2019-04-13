@@ -10,7 +10,7 @@ tags:
 
 ## Remando hacia el futuro 
 
-![Photo by Matteo Vistocco on Unsplash](/assets/images/josh-calabrese-236920-unsplash.jpg){: :height="300px" width="200px" .align-right} 
+![Photo by Matteo Vistocco on Unsplash](/assets/images/josh-calabrese-236920-unsplash_opt.jpg){: :height="300px" width="200px" .align-right} 
 
 Durante muchos siglos numerosas sociedades impusieron un tipo de castigo conocido como [galeras](https://es.wikipedia.org/wiki/Galeras_(pena)). Había dos empleados principales dentro de las embarcaciones; por un lado, estaban los hombres que remaban en ellas y que eran denominados [*galeotes*](https://es.wikipedia.org/wiki/Galeote) y por otro lado estaban los *cómitres*, cuyo cargo principal era el de dirigir la maniobra y el castigo. Los galeotes, además de condenados, podían ser esclavos e incluso remeros voluntarios que, una vez cumplida su condena e incapaces de encontrar otro trabajo, volvían a la boga a cambio de una paga. Afortunadamente este tipo de castigos no existen y las sociedades se han ido transformando gracias en parte a la democratización de derechos fundamentales y por supuesto a la revolución industrial a mediados del siglo XIX que permitió la eliminación de los sistemas feudales de épocas anteriores.
 
