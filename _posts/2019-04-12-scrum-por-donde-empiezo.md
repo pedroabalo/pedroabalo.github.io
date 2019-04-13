@@ -218,8 +218,6 @@ Esperar a la Sprint Review para aceptar los PBIs terminados, resultaría en un *
 
 ## Retrospectiva
 
-*Working in progress*
-
 La *Sprint Retrospective* es una oportunidad para que el equipo Scrum se inspeccione a si mismo y crear un plan de mejoras (acciones) que sean abordadas durante el siguiente sprint.
 
 El propósito de la Retrospectiva es:
