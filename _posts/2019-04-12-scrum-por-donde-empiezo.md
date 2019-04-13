@@ -276,7 +276,7 @@ Al principio, como no conocemos la capacidad de nuestro equipo Scrum, recomiendo
 
 [**Gráfico de Burndown**](https://es.wikipedia.org/wiki/Burn_down_chart) es una representación gráfica del trabajo restante en un sprint. En el eje X mostramos el trabajo que queda por hacer y en el eje y el tiempo. Ha ido perdiendo importancia en las sucesivas revisiones de la guía de Scrum.
 
-[**Retrospectivas**](https://retromat.org/)
+[**Retromat**](https://retromat.org/) es un site en el que encontrás un conjunto enormes de diferentes tipos de retrospectivas que puedes realizar con el equipo.
 
 
 ## Referencias
