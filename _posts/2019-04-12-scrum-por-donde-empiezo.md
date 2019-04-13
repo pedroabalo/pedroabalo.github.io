@@ -9,6 +9,8 @@ toc_label: "Scrum ¿Por dónde empiezo?"
 toc_icon: glasses
 ---
 
+![Photo by Olga Guryanova on Unsplash](/assets/images/olga-guryanova-167262-unsplash_opt.jpg){: :height="300px" width="200px" .align-right} 
+
 **Scrum** es un [framework](https://www.scrum.org/resources/blog/scrum-no-es-una-metodologia-es-un-framework) a través del cual las personas pueden abordar problemas
 complejos adaptativos, a la vez que se entregan productos de forma eficiente y creativa con el
 máximo valor.
