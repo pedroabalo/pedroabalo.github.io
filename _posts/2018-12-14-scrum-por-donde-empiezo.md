@@ -220,7 +220,7 @@ Esperar a la Sprint Review para aceptar los PBIs terminados, resultaría en un *
 
 *Working in progress*
 
-La *Sprint Retrospective* es una oportunidad para que el equipo Scrum se inspeccione a si mismo y crear un plan de mejoras que sean abordadas durante el siguiente sprint.
+La *Sprint Retrospective* es una oportunidad para que el equipo Scrum se inspeccione a si mismo y crear un plan de mejoras (acciones) que sean abordadas durante el siguiente sprint.
 
 El propósito de la Retrospectiva es:
 
@@ -233,27 +233,31 @@ desempeña su trabajo.
 
 A esto debemos añadir la inspección y adaptación de nuestro *Definition of Done*
 
-Además, cuando hablamos de plan, nos referimos a generar PBI que pasen a formar directamente parte de nuestro siguiente Sprint Backlog.
+En todo momento estamos hablando de un plan y con esto nos referimos a generar acciones en forma de PBI que pasen a formar directamente parte de nuestro siguiente Sprint Backlog. 
 
-La generación de acciones para el siguiente sprint como un PBI
+Estas acciones pueden generar *Product Backlog Items* como historias técnicas, spikes de programación o investigación y que es posible que requiran esfuerzo y por tanto se deban estimar, pero también pueden ser acciones que puedan ser resueltas por el Scrum Master o Product Owner y no sea necesario hacer una estimación.
 
+En este [enlace](https://retromat.org/) encontraréis una fuente muy grande de diferentes tipos de **Retrospectivas** que os ayudarán a hacer este evento más ameno.
+
+Es muy importante que el Scrum Team no caiga en la rutina de hacer siempre el mismo tipo de retrospectiva.
 
 
 ## Refinamiento
 
-*Working in progress*
+Es un evento que no forma parte del CORE de Scrum, pero en la guía hace mención a esta sesión en el apartado de Backlog. Es una sesión que no debe exceder el 10% de la capacidad del equipo durante un sprint y durante este tiempo permite trabajar al equipo, conjuntamente con el Product Owner, en los posibles PBIs que pueden entrar en el siguiente sprint.
+
+Es muy importante que el Product Owner haya trabajado por su cuenta los PBIs a nivel funcional, de modo que pueda responder de forma adecuada y lo mejor posible a las dudas del equipo.
+
+Además, en esta sesión, es recomendable hacer una estimación previa de esfuerzo, por si es necesario dividir el PBI al no ser lo suficientemente SMART.
+
+Aunque no forme parte del core de Scrum, es una reunión muy importante para empezar a encaminar el trabajo del siguiente sprint, pues es aquí donde el equipo debe aclarar cualquiera duda y empezar a analizar el esfuerzo de cada PBI que el Product Owner presenta.
+
+Al principio, como no conocemos la capacidad de nuestro equipo Scrum, recomiendo que los primeros refinamientos sean de al menos una hora y media o dos horas.
 
 
-
-
-
-## Más Tips
-
-*Working in progress*
 
 ## Herramientas, métodos y técnicas (o movimientos)
 
-*Working in progress*
 
 [**User story mapping**](http://www.jpattonassociates.com/user-story-mapping/) es un ejercicio visual que ayuda a definir y crear una experiencia de usuario de una forma más sencilla. Se utiliza para mejorar la comprensión de los equipos y para priorizar el trabajo.
 
@@ -271,6 +275,8 @@ La generación de acciones para el siguiente sprint como un PBI
 [**No Estimates**](http://www.barryovereem.com/the-noestimates-movement/) es un movimiento, no una técnica concreta de estimación, en relación a las estimaciones y previsiones del desarrollo de software. 
 
 [**Gráfico de Burndown**](https://es.wikipedia.org/wiki/Burn_down_chart) es una representación gráfica del trabajo restante en un sprint. En el eje X mostramos el trabajo que queda por hacer y en el eje y el tiempo. Ha ido perdiendo importancia en las sucesivas revisiones de la guía de Scrum.
+
+[**Retrospectivas**](https://retromat.org/)
 
 
 ## Referencias
