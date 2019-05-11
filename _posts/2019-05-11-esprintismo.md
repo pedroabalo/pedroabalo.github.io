@@ -72,13 +72,14 @@ Este valor es fortalecido en Scrum, a través de todo el proceso. Los Roles se c
 El respeto en las capacidades de la persona, en su creatividad e ingenio, en su buen hacer, en su autonomía y maestría, así como en sus opiniones y perspectivas, incide de una forma directa y positiva en la auto-organización de los equipos para conseguir la maximización del valor de entrega.
 
 
+##
 
 Siempre decimos que Scrum es simple pero no es fácil y esto es debido a que su implantación como método y forma de trabajo no sólo pasa por un cambio en los eventos, roles y artefactos que nos puede brindar un marco como Scrum, sino que va más allá, va hacia el cambio en el mindset y la cultura de las organizaciones y de las personas y eso se consigue trabajando en todos y cada uno de los valores. Nuestro objetivo es ser ágiles, no hacer Agile, por tanto, no debemos caer como equipo en el Esprintismo y debemos convertirnos en equipos Scrum.
 
 
 ### Referencias
 
-* [**Gunther Verheyen**]: [*There’s value in the Scrum Values*](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/)
+* **Gunther Verheyen**: [There’s value in the Scrum Values](https://guntherverheyen.com/2013/05/03/theres-value-in-the-scrum-values/)
 
-* [**Stephanie Ockerman**]: [*Maximize Scrum with the Scrum Values Series*](https://www.scrum.org/resources/blog/maximize-scrum-scrum-values-focus-part-1-5)
+* **Stephanie Ockerman**: [Maximize Scrum with the Scrum Values Series](https://www.scrum.org/resources/blog/maximize-scrum-scrum-values-focus-part-1-5)
 
