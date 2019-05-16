@@ -18,6 +18,6 @@ Estos últimos años he estado estudiando y aprendiendo todo lo posible sobre Ag
 * [Scaled Professional Scrum](/assets/docs/sps.pdf)
 * [Team Kanban Practitioner](/assets/docs/kanban-tkp.pdf)
 * [Management 3.0](/assets/docs/management30.pdf)
-* [Professional Agile Leadership](/assets/docs/pal.pdf)
+* [Professional Agile Leadership I](/assets/docs/pal.pdf)
 
 

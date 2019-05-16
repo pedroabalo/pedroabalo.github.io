@@ -24,3 +24,5 @@ gallery:
 
 Management 3.0 es una forma de pensar combinada con una colección de juegos, herramientas y prácticas en constante cambio, cuyo objetivo es ayudar a cualquier trabajador a gestionar la organización.
 
+En este post [post](/agile/traineras-y-galeras/) analizo los diferentes tipos de Management que existen y hago una pequeña introducción del Management 3.0
+
