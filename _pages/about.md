@@ -23,4 +23,4 @@ Estos últimos años he estado estudiando y aprendiendo todo lo posible sobre Ag
 
 Además, en 2021, he finalizado el Máster ThePowerMBA
 
-*[Máster ThePowerMBA](/assets/docs/thepowerMBA.pdf)
+* [Máster ThePowerMBA](/assets/docs/thepowerMBA.pdf)
